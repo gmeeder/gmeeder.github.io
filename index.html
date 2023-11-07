@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Sitio Web</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        /* Estilos del encabezado y la barra de navegación */
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        /* Estilos de las secciones */
+        section {
+            text-align: center;
+            min-height: 100vh; /* Ajusta la altura al 100% del alto de la pantalla */
+            position: relative; /* Permite el posicionamiento del botón */
+        }
+
+        /* Estilos específicos de las secciones */
+        #home {
+            background: url('f1.jpg') no-repeat center center;
+            background-size: cover;
+            color: #fff;
+            text-align: center;
+        }
+
+        #portfolio {
+            background: url('f3.jpg') no-repeat center center;
+            background-size: cover;
+            color: #fff;
+            text-align: center;
+        }
+
+        #contact {
+            background: url('f4.jpg') no-repeat center center;
+            background-size: cover;
+            color: #fff;
+            text-align: center;
+        }
+
+        #automation {
+            background: url('luffy.jpg') no-repeat center center;
+            background-size: cover;
+            color: #fff;
+            text-align: center;
+        }
+
+        /* Estilos para el botón de regreso al home */
+        .back-button {
+            display: block;
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            padding: 0.5rem 1rem;
+            background-color: #333;
+            color: #fff;
+            text-decoration: none;
+        }
+
+        /* Estilos para eliminar el margen del h2 */
+        h2 {
+            margin: 0;
+        }
+
+        /* Estilos responsivos */
+        @media (max-width: 768px) {
+            section {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#automation">Automatización</a></li>
+                <li><a href="#portfolio">Portafolio</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Bienvenido a Mi Sitio Web</h2>
+        <p>Este es el sitio de inicio.</p>
+        <a href="#home" class="back-button">Volver al Inicio</a>
+    </section>
+
+    <section id="automation">
+        <h2>Automatización</h2>
+        <p>En esta sección hablamos de automatización.</p>
+        <a href="#home" class="back-button">Volver al Inicio</a>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portafolio</h2>
+        <p>En esta sección mostraré mi trabajo reciente.</p>
+        <a href "#home" class="back-button">Volver al Inicio</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contacto</h2>
+        <p>Puedes contactarme en:</p>
+        <address>
+            Correo electrónico: <a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a><br>
+            Teléfono: <a href="tel:+123456789">123-456-789</a>
+        </address>
+        <a href="#home" class="back-button">Volver al Inicio</a>
+    </section>
+</body>
+</html>
