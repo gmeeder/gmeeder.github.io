@@ -1,0 +1,594 @@
+Fecha,USUARIO,Area,RUT del Titular,Nombre del Cliente:,Fono de Contacto:,Dirección del Servicio:,Comuna:,Observacion,ID Genesys:,Tipo Solicitud,Zonal,Fecha Agenda/ Ejecución,Nombre Técnico,Estado,ID de Grabacion de conformidad,Observaciones Terreno
+2023-10-26 10:43:27,MCARO,COM,762042681,PABLO ALFONSO ANTAHUER ROJAS,992194772,ELEUTERIO RAMIREZ 1107 LOCAL 1 Y 2,,"CLIENTE SOLICITA REINSTALACION, SOLICITA DEVOLUCION DE LLAMADA PARA VALIDAR LO ANTES POSIBLE, ES LOCAL COMERCIAL",ID 7e982163-109c-4028-82e1-100b7ce56fa3,Reinstalación,,,,,,
+2023-10-26 10:44:05,jjsaez,COM,137238543,Carolyn Volmares,962261048,Michimalonco ,,"Cliente indica tener pendiente una solicitud de traslado interior desde la semana pasada, solicita la contacten a la brevedad ya que necesita urgente el traslado de los equipos",ID: ec3f185b-c4f3-42fa-b43f-686324e85a1d,Traslado interior,CYHQ,2023-10-31 00:00:00,JOSE LUIS FIGUEROA,Finalizada,0,
+2023-10-26 21:09:40,JLOPEZS ,COM,87600297,MONICA DORNER,931313092,"VOLCAN TACORA 1866,  PUERTO MONTT ",PUERTO MONTT ,"CLIENTE SOLICITA DE MANERA URGENTE VALIDAR TRASLADO INTERIOR, EN SU DOMICLIO  VOLCAN TACORA 1866, PMTT, FC +56931313092 ID /f25cbf35-d1f4-49f0-b656-aba797dbd334",f25cbf35-d1f4-49f0-b656-aba797dbd334,Traslado interior,PMTT,2023-11-13 00:00:00,Cristopher Zuñiga,Asignado,Conversation ID: b5697b6b-7cf1-439c-97a3-139f3778e671,
+2023-10-28 14:12:07,JLOPEZS,COM,11802933K,SILVIA CABRERA ,964888140," SAN FELIPE 1645, VILLA TODOS LOS SANTOS, VILLARRICA ",VILLARRICA ,"cliente solicita agrega decodificador adicional, solicita validar favor contactar FC +56964888140  ID df77dcdb-0469-48fe-9d3f-4d037187075f",df77dcdb-0469-48fe-9d3f-4d037187075f,STB adicional,,,,,,
+2023-10-30 00:00:00,JLOPEZS ,COM,79048623,sergio vargas ,961951828, LAS ENCINAS CASA 6 / PUERTO VARAS ,PUERTO VARAS,SOLICITA URGENTE UNA REINSTALACION EN LA DIRECCION LAS ENCINAS CASA 6 / CONDOMINIO LAS ENCINAS /  PUERTO VARAS/  EL CUAL HABIA SOLICITADO EL DIA 30-10-23 / RUN 79048623 / FC +56961951828 ID 611a6ab3-084c-48fc-823e-90eb6aca6a55,611a6ab3-084c-48fc-823e-90eb6aca6a55,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-10-30 06:44:49,desanche,CCDD,129947209,ELBA PAOLA ,984475079,VALLE SIMPSON 57,VALLE SIMPSON 57,"129947209   Necesito reubicar un deco +56984475079 ELBA PAOLA Domicilio : VALLE SIMPSON 57 Ciudad : COYHAIQUE
+Necesita respuesta con respecto a traslado exterior
+3698f8c5-14d6-4880-b079-7ddc02cffdd3",3698f8c5-14d6-4880-b079-7ddc02cffdd3,Traslado interior,CYHQ,2023-11-02 00:00:00,LUIS CHANDIA,Finalizada,9aa68bcf-5cfa-4cf9-a11d-8608b60f8748,
+2023-10-30 09:00:52,JLOPEZS ,COM,143556778,ALBERTO MONTIEL,952060119,AVENIDA RUCALHUE 760 CASA 37 HUALPEN , HUALPEN ,"SOLICITA AGREGA  3°DECODIFICADOR ACEPTA RENTA MENSUAL E INSTALACION DEL DECO / ADEMAS TRASLADO INTERIOR SIN COSTO (SOLICITA INSTALACION DESPUES DE LAS 18.00), SOLICITA CONTACTO DE VALIDAR FC +56 952060119  ID f5da48ea-0e14-47fb-a12d-56696e378b56
+",f5da48ea-0e14-47fb-a12d-56696e378b56,Traslado interior,CNCP,00:00:00,0,Desiste,ID: c24f2a56-1435-46b7-b3ab-a050e26bc924,
+2023-10-30 09:40:09,IACUNA,COM,90140833,LUIS AMERICO VELOSO CARDENAS,996415556,PEDRO AGUIRRE CERDA 366,OSORNO,Cliente solicita traslado interior con urgencia. Amenaza con baja de servicios en caso de no realizarse a la brevedad.,042b662a-0d9f-4d47-8179-6f57f8554065,Traslado interior,OSRN,2023-11-11 00:00:00,Hierzont Guerra,Finalizada,ID: 456bf0f8-17b8-4a91-8f05-4fd09ee33e10,
+2023-10-30 09:43:01,JLOPEZS,COM,173493585,ROMINA ANDREA BASTIDAS LOPEZ,979711593,"LAGUNA  VERDE 540 CASA 15, LOS ANGELES ",LOS ANGELES ,"solicita agrega decodificador adicional, acepta renta y costo de instalación solicita validar  
+FC +56 979711593 id a42a98ca-b047-48df-a70f-0d03d540322b
+",02c1f458-95a3-4cef-a1c5-631fa3eebcf9,STB adicional,,,,,,
+2023-10-30 09:58:40,PCATRICH,COM,86621150,RODRIGO GERMAN SCHERSON FAURE,991004702,"CAMINO NIEBLA CONDOMINIO LOS CANELOS 1, VALDIVIA",VALDIVIA,"86621150//rodrigoscherson@gmail.com//FC 991004702 //REINSTALACIÓN ACOMETIDA//COBRO $18,000 (1 CUOTA)//ID e15974a2-a122-46cc-ac31-9ae01facc4ea 10168662",e15974a2-a122-46cc-ac31-9ae01facc4ea 10168662,Reinstalación,,,,,,
+2023-10-30 10:29:01,AOYARZUN,COM,761739808,MACARENA ABARZUA REYNOSO,996535224,LUIS ROSAS GARRIDO 32 Ciudad : CONARIPE,CONARIPE,"NOMBRE TITULAR: SOC COMERCIAL Y TURISTICA CAFRAMA LTDA
+NOMBRE DE USUARIO: MACARENA ABARZUA REYNOSO
+RUT: : 761739808
+FC 1: 996535224
+FC 2: 959498556
+DIRECCION ACTUAL: LUIS ROSAS GARRIDO 32
+Ciudad : CONARIPE
+LOCALIDAD: COÑARIPE
+OBS. Cliente solicito traslado interior pero exterior, indica que lo solicitó a fines de SEPTIEMBRE, tuvo dos visitas técnica donde quedo pendiente debido a la zanja que tenia que realizar el cliente y se contacto el jueves 26/10 para informar que ya tiene listo el canalizado. Solicita reagendar petición pendiente.",8d35fe23-a8f8-4280-9076-9fcf606b3c67,Traslado interior,VLLC,15-11 10-11 HRS,Jose Vasquez,Asignado,D de conversación: d9dd5507-fc9a-4aa9-911c-ce0b99265b80,
+2023-10-30 11:15:26,MIGATICA,COM,66534553,CRISTOBAL OYARZUN,991543128,COLON 119,PUERTO AYSEN ,"Cliente menciona hace poco realizó traslado exterior donde no quedaron bien la ubicacion de los equipos, solicita traslado interior de tv y adsl sin costo. ",ID: 4588ca56-3499-48a6-86f2-3368ec51373b,Traslado interior,CYHQ,00:00:00,0,Pendiente,0,
+2023-10-30 11:15:40,CRESTIVO,COM,168632711,JAVIER TAPIA,977969557,LOS MAITENES 550,CONCEPCION,"CLIENTE INDICA QUE SOLICITO REPETIDOR DE AUTOINSTALACION HACE APROXIMADAMENTE UN MES, SE LE INDICO EN 7 DIAS HABILES LLEGARIA A DOMICILIO Y HASTA LA FECHA NO LO HA RECIBIDO NI SE HAN COMUNICADO CON EL PARA BRINDALE MAYOR INFORMACION / CLIENTE MOLESTO, SOLICITA SE LE INFORME A LA BREVEDAD ESTADO DE SOLICITUD / SE INFORMA FALLA EN SISTEMAS / FC: 977969557 / CORREO: jats182@gmail.com / ID: 545afaae-aa7f-4684-b1bb-98e5499294a4",ID: 545afaae-aa7f-4684-b1bb-98e5499294a4,Agrega AP,,,,,,
+2023-10-30 13:09:52,BBMORENO,COM,115043099,CESAR ENRIQUE PINO ULLOA ,972166127,DIRECCION JOSE MIGUEL CARRERA 382 A,CALBUCO,"CLIENTE SOLICITA REINSTALACION DE TRIPACK POR MODIFICACIONES EN HOGAR, PIDE QUE SE PUEDA GESTIONAR LO MAS PRONTO POSIBLE YA QUE SE ENCUENTRA SIN SERVICIOS/FC:972166127",fbaf3000-c101-4a78-b6df-ff0f41d52794,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-10-30 13:40:21,AIOYARCE,COM,770036666,NANCY BELTRÁN,959835803,"CALLETANO LETELIER 225, OFICINA 3",LA UNIÓN,TRASLADO INTERIOR ROUTER Y UN REPETIDOR WIFI,ee0e3fcf-1bcb-4dfb-bd39-1dab9e16b467,Traslado interior,OSRN,00:00:00,0,Desiste,221e7e17-bf78-4bde-b554-6612f607d4af,
+2023-10-30 14:25:24,smaechel,CCDD,17067636k,fernando valenzuela,991706227," carampangue 645, valdivia",  valdivia,"17067636-k fernando valenzuela +56991706227 carampangue 645, valdivia solicita agregar un equipo eero   adicional //  ID 205b7533-957f-424d-babf-32b21f74bdcc
+ ",205b7533-957f-424d-babf-32b21f74bdcc,Agrega AP-Eero,VLDV,00:00:00,sin movimiento,ANULADA,Conversation ID: 41f47c60-676a-46a2-9a9e-c888ff5a64ab,
+2023-10-30 14:28:35,AWMARIPA,COM,100063239,CONTRERAS ALBORNOZ ALEJANDRA,989619939,AVENIDA BAHIA FITZ ROY 23,MACHALI,"REINSTALACION + CAMBIO EQUIPOS: comenta que tecnicos le recomendaron cambiar ont  principal y decos por pixelacion, ademas solicita reinstalacion de servicios, se le informa costo 18000/ se comunica don alex esposo de titular / 
+Conversation ID: 58cd6052-6694-4233-ba29-4e168e46c63b // don alex
+Numero Telefónico: tel:+56989619939 
+
+contrerasale1969@gmail.com",58cd6052-6694-4233-ba29-4e168e46c63b,Reinstalación,RNGA,DESISTE,DESISTE,ANULADA,"Conversation ID: fb6ef2c6-7a1d-4fcf-bb3d-01f9f664bc73 
+",
+2023-10-30 14:30:16,JLOPEZS ,COM,740165003,Kenya Droguett,989671721,"ARTURO PRAT 619, SECTOR LLAULLAU, CASTRO ",CASTRO,"SOLICITA AGREGA UN EQUIPO ADICIONAL ROUTER ADICIONAL, SOLICITA CONTACTO DEL SEGUNDO NIVEL FC +56989671721  id /1bb949f0-3ab7-4a4a-920a-c04260793bab
+",1bb949f0-3ab7-4a4a-920a-c04260793bab,Agrega AP,,,,,,
+2023-10-30 14:37:56,AWMARIPA,COM,106428743,CARLOS TORRES GALINDO,921848557,PJE 2 72,PUERTO AYSEN,"Solicita eero autoinstalable Conversation ID: a13d4bce-adb3-47ab-92f2-7c65285afdae // FC 957779948
+Numero Telefónico: tel:+56921848557 - 
+omaviviana@hotmail.com
+",a13d4bce-adb3-47ab-92f2-7c65285afdae,Agrega AP,,,,,,
+2023-10-30 14:51:50,MVTRONCO,COM,62916753,AMADO SILVA,986009881,"población enpart 2, las margaritas, casa 11.",LLANQUIHUE,"Cliente indica que solicitó reinstalación, varios días antes de la falla, y no se han comunicado con él, solicita se coordine la reinstalación.",ID: 43740e3c-5074-4b5d-ab89-f20165fb684e,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-10-30 15:12:01,ALDO BUCCA,COM,139546911,ALTAMIRANO ALARCON JOHANNA PAZ,956999298,JHON MACNAB 3325,SAN PEDRO,"CLIENTE SOLICITA REP ADIC WIFI 
+COSTO INSTALACION 1 CUOTA , SE INFORMA COSTO MENSUAL Y ACEPTA 
+ID: b7997ea4-ca8d-462e-831e-c15864c594c8
+fc 956999298 n° 520246856",ID: b7997ea4-ca8d-462e-831e-c15864c594c8,Agrega AP,,,,,,
+2023-10-30 15:18:09,XBUSTAMA,COM,49948468,MARIA TERESA RIVERA,977466491,EL OBISPO 1652  SECTOR PLAZA DE ARMAS DE CHIGUAYANTE ,CHIGUAYANTE,"cliente solicita agregar 5 deco ,. en 3 cuotas mensul 1990 ,. ", Conversation ID: 2803898b-55dd-4f23-a395-61e7723642dd,STB adicional,,,,,,
+2023-10-30 15:52:13,JJSAEZ,COM,761428314,MARCELA MEIER,974114830,BILBAO 1128,COYHAIQUE,Cliente solicita reinstalacion del servicio debido a que les entraron a robar y cortaron el cableado del servicio,ID: 0e4b2d62-a867-47b4-9f26-f549bdcb0fb6,Reinstalación,CYHQ,2023-11-13 00:00:00,LUIS CHANDIA,Finalizada,705a93eb-dbe0-418d-a62c-8b2fa1573cc3,
+2023-10-30 16:29:26,CCCHAVEZ,COM,55582823,JERMAN SANZANA,992194148,PEDRO DE VALDIVIA 327 ,VALDIVIA ,"TRASLADO INTERIOR  DE SUS SERVICIOS , COSTO $18000 EN 3 CUOTAS
+SERIE 518036567",ad9c48bb-b704-47ac-ab12-94e6bfc53c3b,Traslado interior,VLLC,14-11 10-11,Rodrigo Lizama,Finalizada,Conversation ID: 5f144894-578b-4417-837a-28da12b1c621,
+2023-10-30 18:50:12,CFDIAZ,COM,163448599,maryorie andrea moró neira ,996798358,996798358,OSORNO,"CLIENTA MOLESTA EXIGE REINSTALACION DE SERVICIOS DE  o'higgins 615, osorno 
+TV E INTERNET, SE MOLESTA PORQUE SE LE INFORMA DE LA FALLA Y QUE NO SE PUEDE INGRESAR LA SOLICITUD, DICE QUE SI NO LE HACEN AL REINSTALACION DARA DE BAJA EL SERVICIO A LAS 12 DEL DIA//direccion: o'higgins 615, osorno //rut: 16344859-9 //
+fc: 996798358// ID: 9f14630c-bbf1-49ab-8276-a52b5ad8fb20",9f14630c-bbf1-49ab-8276-a52b5ad8fb20,Reinstalación,OSRN,2023-11-13 00:00:00,Roberto Hualaman,Desiste,0,
+2023-10-30 20:16:01,CFDIAZ,COM,125881262,claudia Angelica carrasco nuñez,957288558,"cinco y media poniente A 2060, talca ",talca,"esposo de titular se comunica y solicita reinstalacion y mover unos decodificadores, informa que no le funcionan. Se informa costo de reinstalacion 18 mil y no esta de acuerdo, amenaza con cambio a movistar, se le indica que la solciitud la debe ingresar la titular, pero da su numero porque todo lo gestiona el, se le informa que cuando lo comuniquen se debe hacer cualquier validacion con titular no con el// direccion: cinco y media poniente A 2060, talca // fc: 957288558 //id:5f0a6edb-422a-41c1-b58e-4ee4591f7d8b",5f0a6edb-422a-41c1-b58e-4ee4591f7d8b,Reinstalación,TLCA,15-11 17-18 HRS,Joel Aldana,Asignado,Conversation ID: 00b93046-2459-45e2-8f91-0604b194e620,
+2023-10-30 22:10:39,LRUIZ,CCDD,57781564,patricio petersen mallea,984147025," Calle viña del mar 351, VALDIVIA ",VALDIVIA,"RUT: 57781564 // Se comunica: patricio petersen mallea // cliente solicita agregar 1er repetidor adicional MESH $990 // instalación $9,990 // FC: 984147025 // correo: patriciopetersenmallea1@gmail.com // Dirección: Calle viña del mar 351, VALDIVIA // ID Genesis: 5d1b6384-a4bb-47b3-b5ee-c796b705a959",5d1b6384-a4bb-47b3-b5ee-c796b705a959,Agrega AP-Eero,VLDV,2023-11-14 00:00:00,Carlos Dias,Asignado,0,
+2023-10-31 08:49:51,MVTRONCO,COM,165429834,NICANOR ANDRES LOPEZ MOLINA,9883455430,PAILLAO SECTOR LOS HUALLES PARCELA 66,VALDIVIA,"cliente indica haber ingresado req para instalación de 3 stb, el técnico le indico realizar canalización y eso el cliente ya lo hizo, solicita que se instalen los stb.",ID: c46353cc-e8f2-4ab5-a0e3-35ae47f19694,STB adicional,,,,,,
+2023-10-31 08:50:17,IACUNA,COM,195681600,YANET DEL CARMEN INAYAO TECA,964568213,PROFESOR CESAR VERA 230,CASTRO,Solicita reinstalación de servicio debido a renovaciones en su domicilio.,47cd44b2-35d7-47ad-b5c5-ffdebac7daa9,Reinstalación,CHLE,13-11 entre 14-15hrs,daniel quijada,Finalizada,Conversation ID: 00b93046-2459-45e2-8f91-0604b194e620,
+2023-10-31 10:30:37,LROSAS,COM,78723440,JOSE ERIBERTO VARGAS GONZALES,993977892,LOS SAUCES 36 POBLACION CALLE NEL (CERCA A HOSPITAL NUEVO),PTO.MONTT,"CLIENTE SOLICITA TRASLADO INTERIOR PARA SUS SERVICIOS , DE INTERNET Y TV PARA LA BREVEDAD YA QUE ESTAN TRABAJANDO EN DOMICILIO ",eda340af-1599-469e-bf4c-25c43c3f63af,Traslado interior,PMTT,2023-11-11 00:00:00,Felipe Navarro,FINALIZADA,Conversation ID: 43f247ab-208b-4fc8-90b3-a4a3927ebf68,
+2023-10-31 11:02:22,AWMARIPAN,COM,7667941K,MUÑOZ FRANCO HECTOR GASTON,985007605,PJE LLAIMA 510,LAUTARO,"Cliente solicita reinstalacion del servicio / cliente solicita que sea sin costo por oferta de otras compañias/ 
+RUT 7667941K /   MUÑOZ FRANCO HECTOR GASTON
+Conversation ID: 3df7f81f-87db-4328-a01a-d918646bcc4e // hmunoz@munilautaro.cl//  PJE LLAIMA 510 /  Lautaro / 
+Numero Telefónico: tel:+56985007605 /  numero de atencion 11107667 / ",3df7f81f-87db-4328-a01a-d918646bcc4e,Reinstalación,TMCO,13-11 entre 14-15 hrs,Miguel Pilquil,Finalizada,Conversation ID: 75a05ceb-76cd-4aa8-8e7f-52642fc4f3a5,
+2023-10-31 11:34:02,cbavenda,COM,760876763,antonio azurmendi,939184614,ruta t #424 angachilla 2430 (numero de la casa) queda cerca de al lado del terminal de linea 20.,valdivia ,"cliente solicita traslado interior urgente, por modificacion de domicilio, necesita trasladar el router principal, ya que esta desconectado, y esta sin servicio, y necesita moverlo de manera urgente.
+lo deja en 3 cuotas.
+IDf6b3a9c3-278f-434c-b0b7-ac2754a538fb/fc: 939184614/lenosdelsur@gmail.com/region de los rios/valdivia/ruta t #424 angachilla 2430 (numero de la casa) queda cerca de al lado del terminal de linea 20.",IDf6b3a9c3-278f-434c-b0b7-ac2754a538fb,Traslado interior,VLDV,2023-11-10 00:00:00,Ernesto Muñoz,FINALIZADA,Conversation ID: 38c45042-c33b-48d2-8741-290f16463a69,
+2023-10-31 11:59:45,MVTRONCO,COM,994484826,DIEGO HERNAN ABARZA REBOLLEDO,994484826,"SANTA SOFIA 71, CHIGUAYANTE",CONCEPCION ,"cliente solicita instalación de punto de alta velocidad , se le indico valor de 24990, lo deja en 3 cuotas.","ID: 8abeb44a-e5df-49f0-81e1-d93a509295c9, ID: 53fff5b9-1ad6-4e6c-b77a-1b289f6be76e",Punto red adicional,,,,,,
+2023-10-31 12:07:15,ALDO BUCCA,COM,163640910,CRISTIAN ALEXI VIDAL,995119353,CAPITAN LUIS ALCAZAR 115, QUELLON,"Cliente solicita Rep Adic Wifi / costo de instalacion 
+1 cuota / se informa valor mensual y acepta
+CLIENTE INFORMA QUE DIRECCION ES  
+CAPITAN LUIS ALCAZAR 880
+ ID: b1031627-7e9d-4b60-beb5-ee0fb87aa144
+fc 995119353   n° 512185893", ID: b1031627-7e9d-4b60-beb5-ee0fb87aa144,Agrega AP,,,,,,
+2023-10-31 12:26:34,EALISTE,COM,181489421,FELIPE IGNACIO CASTILLO NIADA,977663128,AVENIDA LOS URBANISTAS 380 DP 904 torre 3,TEMUNCO,"cliente solicita instalación de punto de red pendiente de alta de servicio, el cual técnico informo al momento de alta de servicio  que cuando necesite el punto de red se contacte al callcenter para gestionarlo sin costo,  / fc 977663128   ID: 8646bb09-aca9-4735-a4fb-df0914db9e4c  ",8646bb09-aca9-4735-a4fb-df0914db9e4c,Punto red adicional,TMCO,13-11 entre 14-15 hrs,Jose Gutierres,Finalizada,Conversation ID: 23da0ff4-1c7b-438a-a937-a23fa0e49804,
+2023-10-31 12:33:24,smaechel,CCDD,17864596k,CAROLA INES	 OLIVERA CARRILLO  ,989062057,"Villa del rey 8 casa 1472, valdivia región de los rios",valdivia ,"17864596k  OLIVERA CARRILLO CAROLA INES	  fc 989062057  Villa del rey 8 casa 1472, valdivia región de los rios Cliente solicita repetidor wifi adicional //   ID bfdeb006-6caf-4ae2-a94b-80fef9e9757b",bfdeb006-6caf-4ae2-a94b-80fef9e9757b,Agrega AP-Eero,VLDV,00:00:00,Carlos Diaz,Asignado,Conversation ID: 38c45042-c33b-48d2-8741-290f16463a69,
+2023-10-31 13:28:17,CRESTIVO,COM,146148352,VIVIANA CASSINELLI,979667254,RANCHO LOMAS VERDES S/N (PARCELA 120),PUERTO VARAS,"CLIENTE ENOJADA PORQUE SE HA COMUNICADO EN REITERADAS OPORTUNIDADES DURANTE FALLA EN SISTEMA, YA QUE CUENTA CON RECLAMO COMERCIAL ACTIVO - SOLICITA AGREGAR UN DECODIFICADOR AL SERVICIO DE TV / SOLICITA SE LE CONTACTE PARA GESTIONAR / fc: 979667254 / correo: VIVIANACASSINELLI@GMAIL.COM / ID: 072c5538-c627-4453-8a54-9117c41bb964",ID: 072c5538-c627-4453-8a54-9117c41bb964,STB adicional,,,,,,
+2023-10-31 13:57:45,MCFLORES,COM,152729774,INGRID SUBE,944303129,"BRUNO KYLING 1649,ORIENTE, OSORNO",OSORNO,CLEINTE SOLICITA AGREGAR 1 DECO ADICIONAL ,1a3b978b-6ae6-40c1-afc5-90237da289fc,STB adicional,,,,,,
+2023-10-31 14:05:53,cbavenda,COM,70312018,eugenio acala,996470968,terrazas del maullin 23 linea nueva puerto varas,terrazas del maullin 23 linea nueva puerto varas,"cliente solicita repetidor adicional, se le indica que estamos sin sistemas solicita dejar igual insistencia.
+n° cuotas: 1
+valor mensual $1990 
+IDc3545216-cc32-4231-8d3e-40a646d84714/fc:996470968/ea@transat.cl/region de los lagos/ puerto varas/terrazas del maullin 23 linea nueva puerto varas
+",IDc3545216-cc32-4231-8d3e-40a646d84714/,Agrega AP,,,,,,
+2023-10-31 14:25:49,CPVALLEJ,COM,124234646, AUDELINA LISETT DELGADO,941176866, PABLO NERUDA 192,LLANQUIHUE,"clienta solicita traslado interior de equipo de internet, se indica costo de 18000 clienta acepta en 3 cuotas.",id:60e90e06-6e08-44ad-9d61-eddc36aed2de,Traslado interior,PMTT,00:00:00,0,Pendiente,0,
+2023-10-31 15:17:33,ymartine,CCDD,164448533,Romina Mario,945720570,AVDA LA PAZ 577 , QUEILEN,"
+Sr (a) Romina Mario  solicita eliminar 1 STB. 
+ID 7e2c46a7-a646-4af9-9690-e96afc0fe6b2",7e2c46a7-a646-4af9-9690-e96afc0fe6b2,Elimina STB,CHLE,13-11 entre 15-16hrs,jose maimae,Finalizada,Conversation ID: 2dea2061-16a7-4d24-9a40-2966c92cef15,
+2023-10-31 15:38:41,elefihua,CCDD,163189135,Katery Macarena Arias Pineda,954047467,patricio linch 1040- edificio comguillio 418,Temuco ,"RUT:163189135//Nombre:Katery Macarena Arias Pineda//REGION:Araucania temuco //Dirección:patricio linch 1040- edificio comguillio 418//Fono Contacto:954047467//Servicio afectado:tv //Mail:katery.ar@hotmail.com//Cliente solicita traslado de equipos en interior y eliminacion de un deco adicional//se ingresa formulario  //ID ticket:interactions/4087c8a3-a2ca-4103-be28-59e76f7f1489. 
+",4087c8a3-a2ca-4103-be28-59e76f7f1489,Traslado interior,TMCO,15-11 entre 16-17 hrs,Fabian Flores,Asignado,Conversation ID: bccae7d4-b645-4b26-a1a0-7ab09864c541,
+2023-10-31 16:41:53,RMUNOZH,COM,10489805K,MARIA JACQUELINE  PINEDA CHAVEZ,963708377, NUEVA ORIENTE CUATRO 4872 (CASA 61) SECTOR VALLE VOLCANES PTO.MONTT,PTO.MONTT,"nombre:MARIA JACQUELINE  PINEDA CHAVEZ
+rut:10489805K
+cliente solicita instalar su dec. pendiente que no instalo en el alta de servicios//actualmente tiene 1 dec. instalado//solicita instalar el 2º dec. pendiente que se encuentra en el domicilio//acepta costo $9990 instalación//1 cuota//dirección  NUEVA ORIENTE CUATRO 4872 (CASA 61) SECTOR VALLE VOLCANES PTO.MONTT//correo paogonzalezgo@gmail.com//
+fc:+56963708377
+ns:
+id:5cbbf390-ad19-47ac-9bbe-24b4b9c10af2//rmunozh.",5cbbf390-ad19-47ac-9bbe-24b4b9c10af2,STB adicional,,,,,,
+2023-10-31 16:49:25,EMIRANDAM,COM,152805063,JOHANA ANDREA ORTIZ RUIZ,961490886,ROLANDO ROCHA 2138,TEMUCO,"CLIENTE SOLICITA REINSTALACION GRATIS, INDICA QUE SERVICIO QUEDO MAL INSTALDO DESDE EL PRINCIPIO,  DICE TENER UNA RESOLUCION CON FECHA 16/10( RECLAMO TECNICO POR REINSTALACION DE FORMA GRATUITA)PERO QUE AUN NO SE CONTACTAN PARA LA GESTION",Conversation ID: 29211da3-baab-47b5-a933-8b9ddbde00ec,Reinstalación,TMCO,DESISTE,DESISTE,ANULADA,Conversation ID: b33456d2-b218-46ee-9005-e81b779d6217,
+2023-10-31 17:28:01,AIOYARCE,COM,81964262,HAEGER MASSE INGRID PATRICIA,996449731,AVENIDA PRAT 1030 ANCUD,ANCUD,"SOLICITA TRASLADO INTERIOR STB.
+996449731
+",1ad4d996-71e3-4bb7-96f7-dc02b24c52bf,Traslado interior,CHLE,14-11 entre 12-13hrs,erwin trujillo,Finalizada,Conversation ID: 9fd1849e-4979-4215-8969-6fbe263b2801,
+2023-10-31 18:54:14,EMIRANDA,COM,165518462,COLILEO COFRE CAROLINA ESTELA,933648425,ARTURO ALESSANDRI PALMA 3,FRUTILLAR,"CLIENTE SOLICITA REPETIDOR, $990 + INSTALACION $9990 (3 CUOTAS).-",ID: f79ef061-f44a-4c04-a435-39318061c105,Agrega AP,,,,,,
+2023-11-01 12:44:27,CPHERNAN,CCDD,195205175,NICOLE IGNACIA IGRUTINOVICH BE,975268507,"Avenida ogana 1127, coyhaique, región aysen",COYHAIQUE,"CLIENTE SOLICITA AGILIZAR VISITA INSTALACION PENDIENTE EN Avenida ogana 1127, coyhaique, región aysen. SOLICITA INCLUIR DOS REPETIDORES DE INTERNET.",60cf8bbf-810f-41f9-b6dd-793afe2eeb84,Agrega AP-Eero,CYHQ,2023-11-07 00:00:00,SEBASTIAN ELGUETA,Finalizada,7a218c3f-1e3b-403c-94c2-395f2053fc9e,
+2023-11-01 14:57:38,dcatalan,CCDD,27280382,VELASQUEZ VIVAR ALFONSO ALBERTO,983608188,LOS PINOS 1323,pto montt,Cliente solicita eliminar stb adicional // se contacta hija para solicitud // favor contactar // indica solicitud realizada el dia 24/10,027e4820-7c50-463f-b4e4-3c3228ad66fc,Elimina STB,PMTT,10 NOV 9-10 HRS,KAREN SOTOMAYOR,FINALIZADA,Conformidad realizada de telefono celular de empresa ya que cliente es sordo,
+2023-11-02 08:57:05,ymartine,CCDD,762467550,DISTRIBUIDORA MARCO EL 46 S.A,953537123,San carlos 545 - FRESIA ,FRESIA ," Sr (a)  Marcos Gallardo solicita traslado interior de router.
+ID 9c80c66b-c512-4d88-bfea-120cf66320e0",9c80c66b-c512-4d88-bfea-120cf66320e0,Traslado interior,PMTT,00:00:00,0,Pendiente,0,
+2023-11-02 08:58:57,CFDIAZ,COM,761490389,IVAN ARIAS ECHAIS ,968395805,"VILLA MILANESA 2119, PUERTO MONTT ",PUERTO MONTT,"SOLICITA TRASLADO INTERIOR DE UN DECODIFICADOR// RUT REP LEGAL: 10913029-K // FC: 968395805//DIRECCION: VILLA MILANESA 2119, PUERTO MONTT ", cb99e6ab-6389-44e1-b6f9-0e225af2bee1,Traslado interior,PMTT,00:00:00,0,ANULADA,0,
+2023-11-02 09:23:18,lamartin,CCDD,157594044,Josefina castillo,950957396,Balmaceda 32 futrono,futrono,Cliente desea contratar repetidor adicional indica lleva una semana tratando de generar su solicitud //Exige llamado,9c99a821-0b15-47ea-b29c-c1b373a1e3c4,Agrega AP-Eero,VLDV,00:00:00,0,Pendiente,0,
+2023-11-02 10:33:57,CCCHAVEZ,COM,163968606,GIANCARLO LIONELLI,981590984,DOCTOR MANUEL RIOSECO 1164 CASA 28,LOS ANGELES,"AGREGA REPETIDOR $1990 MENSUAL , COSTO INSTALACION 
+
+SERIE 111072563",d1c3f2e0-cf2c-421b-a818-b2cde648e908,Agrega AP,,,,,,
+2023-11-02 11:32:41,camartil,CCDD,156818402,Sabina Alejandra Urra Paredes,989212607,"Riquelme 486, Curacautin",Curacautin,"Cliente solicita dar de baja un deco y otro deco necesita trasladarlo dentro del domicilio // se indica costo de traslado por $18.000, cliente acepta en 3 cuotas // cliente a la espera",3b927c37-b953-40d5-b8f6-811836659bb3,Traslado interior ,TMCO,14-11 de 17:30 a 18 hrs,Guillermo Medina,Asignado,Conversation ID: 583d7c53-4946-4af2-9443-b270ef4c1217,
+2023-11-02 12:31:34,MVTRONCO,COM,66312372,CARLOS LIRO VARGAS FLORES,997997552,"PASAJE LOS CAIQUENES 52, VILLA LOS CONDORES",puerto aysen,"cliente solicita traslado interior, valor de 18000 en 2 cuotas.",ID: 7ab648a9-d86a-4403-ac10-2d5c1fe8fbef,Traslado interior,CYHQ,00:00:00,0,Pendiente,0,
+2023-11-02 12:51:50,MVTRONCO,COM,73624762,JUAN CARLOS UEZADA MORA,978719698,LAS PARRAS PARCELA 16C,VALDIVIA,"instalación router adicional, quedó pendiente de canalización y cliente indica que eso ya esta realizado, se solicita coordinar visita técnica. N de Req 20267362
+",ID: 5ae3efd3-fc5c-47f9-8260-3c0ed293503a,Agrega AP,,,,,,
+2023-11-02 13:09:12,CCCHAVEZ,COM,140825042, NACHTAILER CARRASCO MABEL JOHA,972124452,SANTO DOMINGO PARCELA 10,VALDIVIA,"AGREGA PUNTO DE RED $24990 EN 3 CUOTAS 
+SERIE 516345649, ", a9afca24-05f0-4341-8345-27944f7acf31,Punto red adicional,VLDV,00:00:00,0,FINALIZADA,Conversation ID: 2a6629e0-253e-4388-a56f-b2a5f2625014,
+2023-11-02 15:16:30,emiranda,COM,177142298,VARGAS HARO LUIS ARIEL,968017236,villa esperanza calle doctor manuel ferreira 123,ANCUD,"REINSTALACION. Cliente solicita reinstalacion de sus servicios $18000 (2 cuotas)
+Conversation ID: b247feb9-f8c1-42c9-8d93-07ba282113f0
+ns: 523185059
+Numero Telefónico: tel:+56974913914",b247feb9-f8c1-42c9-8d93-07ba282113f0,Reinstalación,CHLE,DESISTE,DESISTE,ANULADA,ID: e2ae2af9-f7d8-4c4c-947c-a7934c6b044a,
+2023-11-02 15:25:51,MVTRONCO,COM,167640060,ESTEBAN ALBERTO HERMOSILLA HERNANDEZ,969174581,"PARQUE DE CARRIEL 9385, CASA 39, CONDOMINIO VALLE DE CASA BLANCA",TALCAHUANO,"cliente solicita traslado interior de  un repetidor, valor 18000 1 cuota.",ID: dab57d77-fc20-42d2-a786-7aa1f0e35043,Traslado interior,CNCP,2023-11-10 00:00:00,Victor Fuentes,Finalizada,ID: 7b4c0169-c2eb-4414-b7f7-a95b7d6eb1cd,
+2023-11-02 15:36:21,AWMARIPA,COM,107384510,MATAMALA RIEDEMANN PILAR INES,990504639,AVDA 7 5,VALDIVIA,"RUT 107384510 / MATAMALA RIEDEMANN PILAR INES
+Cliente solicita reinstalacion por problemas 
+REINSTALACION: $18000 en 1 cuota / SERIE 524377311 / / 
+Conversation ID: 9ac87d70-b57b-432e-a4cc-7b382a0907b8 / 
+Numero Telefónico: tel:+56990504639 - 978068419 / DIRECCION AVDA 7 5 / VALDIVIA
+/ numero de atencion :
+15331073
+",9ac87d70-b57b-432e-a4cc-7b382a0907b8,Reinstalación,VLDV,2023-11-10 00:00:00,Cristobal Manriquez,FINALIZADA,Conversation ID: a5b70064-97d4-470c-be76-f6efb3f00d63,
+2023-11-02 16:30:48,BBMORENO,COM,117146502,CARLOS ALBERTO OYARZUN ALMONACID ,978703061,MIRAFLORES 1349,PUERTO MONTT,CLIENTE SOLICITA INSTALACION DECO ADICIONAL $1990 INSTALACION $9990 EN 3 CUOTAS//FC:978703061//SERIE:531249900//ID:d9d64853-76d0-40b0-ad08-64c2f2946e34,d9d64853-76d0-40b0-ad08-64c2f2946e34,STB adicional,,,,,,
+2023-11-02 16:44:46,rmunozh,COM,82406247,MARTINEZ PEREZ SILVIA ELIZABET,989336223,AVENIDA ALMIRANTE LYNCH 232 FRENTE AL SERVICENTRO FREIRE,FREIRE,"nombre:MARTINEZ PEREZ SILVIA ELIZABET
+rut:82406247
+cliente remodelando domicilio//solicita reinstalación de servicio de internet//se indica costo $18000//indica que es mucho el costo//se le ofrece a %50 descuento $9000//acepta//dirección  AVENIDA ALMIRANTE LYNCH 232 FRENTE AL SERVICENTRO//FREIRE//valida titular//correo elsol.freire@gmail.com//
+fc:+56989336223
+ns:522536057
+id:0694bd25-0a75-4ca4-a7ba-50feec1b60d3//rmunozh.",0694bd25-0a75-4ca4-a7ba-50feec1b60d3,Reinstalación,TMCO,DESISTE,DESISTE,ANULADA,Conversation ID: ae8d934f-2cc5-4f00-9f2a-4a15fb5528a9,
+2023-11-02 16:56:34,rmunozh,COM,138222934,MANCILLA SALDIVIA CAROLA VANES,965811689,DIRIGENTE SOCIAL ISMAEL LATIF 924 CASTRO, CASTRO,"nombre: MANCILLA SALDIVIA CAROLA VANES
+rut:138222934
+cliente solicita traslado interior de su equipo d einternet//no acepta costo de $18000//se le ofrece a %50 descuento $9000//acepta//valida titular//direccion  DIRIGENTE SOCIAL ISMAEL LATIF 924 CASTRO//correo cmancilla291@gmail.com//
+fc:+56965811689
+ns:523229396
+id:470fdcfd-3e13-4bcd-b137-ed16cc4c4b29//rmunozh.",470fdcfd-3e13-4bcd-b137-ed16cc4c4b29,Traslado interior,CHLE,DESISTE,DESISTE,ANULADA,ID: 885e4ee5-f146-42fb-9c47-a8ea5f89c7bd,
+2023-11-02 17:07:52,CILLANES,COM,137223252,LORETO SANCHEZ,998039321,TRILAHUE 505 ,VLDV,TRASLADO INTERIOR DECODIFICADOR SIN COSTO. OFRECIDO EN EL MOMENTO DE REALIZAR TRASPASO.,c355f5e9-727f-4910-b095-7ce590632f4e,Traslado interior,VLDV,2023-11-10 00:00:00,CARLOS DIAZ,Asignado,Conversation ID: 86f95948-8dcb-4ce1-96ee-e21e4140a089,
+2023-11-02 17:34:51,vereyes,CCDD,168195796,Felipe ignacio ahumada fierro,958021015 ,los liles 965 Coyhaique ,coyahique,Felipe ignacio ahumada fierro //rut 168195796  //fc 958021015 //dirección: los liles 965 Coyhaique //serie:513904598 //cliente solicita reinstalacion de camara por remodelacion de domicilio//18000 en 3 cuotas // tk: 2167635a-13ff-4576-a6ca-948a668eccfd,2167635a-13ff-4576-a6ca-948a668eccfd,Reinstalación,CYHQ,2023-11-14 00:00:00,SEBASTIAN ELGUETA,Finalizada,97fdc1fc-26cd-4edb-a344-f5d701aa0004,
+2023-11-02 19:04:48,ODUARTEH,COM,87600297,MONICA DONNER,931313092,"Volcan Tacora 1866, Villa Sol de Oriente, Puerto Montt",PUERTO MONTT,CLIENTE SOLICITO TRASLADO INTERIOR DE CAMARAS y aun no se comunican con ella solicita seleridad,ID: b67fb751-d235-4b2b-b84e-0536efd5fe73,Traslado interior,PMTT,2023-11-13 00:00:00,Cristopher Zuñiga,Asignado,Conversation ID: b5697b6b-7cf1-439c-97a3-139f3778e671,
+2023-11-02 19:21:57,XBUSTAMA,COM,95906524,JUDITH SOTO,936325504,CALLE NUEVA 1032 POBL ULTRACAUTIN  LAUTARO,LAUTARO,"CLIENTE SOLOICITA TRASLADO INTERIOR DE DECO POR CAMBIO DE TELEVISOR ,.",Conversation ID: 5ac5e623-963b-410d-8237-ed630d115cd8,Traslado interior,TMCO,16-11 de 16:30 a 17 hrs,Matias Rodriguez,Asignado,Conversation ID: e7199f81-db49-4277-8a88-14e45b117ff8,
+2023-11-02 20:49:40,MCARO,COM,156881414,RUBILAR BAHAMONDE CARLOS JUNIO,932361653,VIÑA DEL MAR 1206,OSORNO,"CLIENTE SOLICITA REINSTALACION, INDICA QUE PASO A CORTAR CABLE DE FIBRA. SERIE 532423911 $18.000 EN 3 CUOTAS ",ID: 5f57e405-e601-4872-8c4f-55c7c45e51a5,Reinstalación,OSRN,00:00:00,0,Desiste,ID: d3cc5ad2-6333-4c8f-93ee-7b4796405e83,
+2023-11-02 21:04:14,EMIRANDA,COM,119296528,LINCO PECHUAN JOSE PATRICIO,942911388,"INES DE BAZAN 803, POBLACION ALONSO DE ERCILL",CASTRO,CLIENTE SOLICITA TRASLADO INTERIOR DE SU ROUTER PRINCIPAL/ $18000 (3 CUOTAS),Conversation ID: ea1a0038-e184-4550-8c1e-54a6a3daad03,Traslado interior,CHLE,14-11 entre 10-11hrs,daniel quijada,Finalizada,"Conversation ID: 4994f0a3-c83a-48ef-b232-8468082e0204
+ejecutado DANIEL QUIJADA",
+2023-11-03 00:00:00,DEVILLAL,COM,131662351,BARBARA OELCKERS,983202833,LOS HALCONES 210,PUERTO MONTT,CLIENTE RECLAMA PORQUE TECNICO LE INFORMA QUE EQUIPOS SE ENCUENTRA CON FALLA Y NECESITA REINSTALACION. SOLICITA REINSTALACION COSTO CERO CON CAMBIO DE EQUIPOS. FC 983202833,bea826ee-03f1-411d-a9d4-c9c125691902,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-11-03 00:00:00,DEVILLAL,COM,778823101,AMADOR MURIAS E HIJO LTDA . /  GIOVANNI CABRERA ORTEGA,998680245,AVDA PRESIDENTE IBAñEZ 886,PUERTO MONTT,CLIENTE RECLAMA POR DEMORA EN REINSTALACION SOLICITADA EL VIERNES 03/11. AMENAZA CON BAJA SI NO SE GESTIONA MAÑANA. NMO INDICA ID DE FOLIO PREVIO. FAVOR SU AYUDA,73618b8a-a3f1-4f7e-99a9-b01017e1db99,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-11-03 09:43:40,gavega,CCDD,133889639,. Eduardo Antonio Cid Godoy,951884530,. Puntilla de Huara 196,los angeles,"solicita stb adicional 3 cuotas || Eduardo Antonio Cid Godoy
+. 13.388.963-9
+. 525919830
+. Puntilla de Huara 196
+. eduardcid@hotmail.com
+. 951884530",0779640d-2d4b-4a8f-a515-d0d98de2a213,STB adicional,LANG,2023-11-13 00:00:00,Victor Larenas,Finalizada,Conversation ID: 8551e1b2-429f-4787-99e3-f455a9b33dd6,
+2023-11-03 09:59:25,PCATRICH,COM,57169621,FERNANDO GARCIA BITTERLICH,652461203,"LOS CANELOS 91, CALBUCO",CALBUCO,"FERNANDO GARCIA BITTERLICH 57169621//NS 513899546//fernandoarturo1947@hotmail.com//FC 652461203//LOS CANELOS 91, CALBUCO//Cliente con problemas funcionamiento, amenaza con termino de contrato//Se ofrece reinstalación, sin costo//ID d01d1d98-35c4-4592-8364-9ca2a8f4e7d2 10485138",d01d1d98-35c4-4592-8364-9ca2a8f4e7d2 10485138,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-11-03 10:22:54,DEVILLAL,COM,12732414k,CECILIA HERRERA,931392440,PJE 24 4380,TALCAHUANO,CTE RECLAMA POR PROBLEMAS DE COBERTURA DESDE REINSTALACION. ,1b10c2ca-77ec-4f42-a1c0-fce5c0ed989f,Reinstalación,CNCP,00:00:00,0,Desiste,ID: 94e11b24-42a3-4052-9a42-2d60abd3d740,
+2023-11-03 11:19:04,BBMORENO,COM,105951620,DEYLA MARIBEL CRUZAT MELLA,959241305,CAMINO PARQUE LANTAÑO 718,CHILLAN,CLIENTE SOLICITA TRASLADO INTERIOR DE ROUTER ACEPTA COSTO $18000 EN 3 CUOTAS DIRECCION CAMINO PARQUE LANTAÑO 718 CHILLAN/FC:959241305/SERIE:531310267 - VIGENTE/ID:0abdc2ca-f608-4532-a7bf-7e8ed5465b49,0abdc2ca-f608-4532-a7bf-7e8ed5465b49,Traslado interior,CHLL,directo a buzón,0,Pendiente,0,
+2023-11-03 11:30:20,AFICA,COM,110191162,RUTH MACLOVIA VERA GALLEGOS,986365600,"Calafquen N°237,  Villa El Esfuerzo, San Pablo",San Pablo,"Clienta solicita traslado interior, ya que su casa fue incendiada,  y necesita de forma urgente trasladar sus equipos.",cdeb228b-6a46-493f-8621-4414bd49bd9e,Traslado interior,OSRN,00:00:00,0,Desiste,0,
+2023-11-03 12:01:31,RMUNOZH,COM,125314597,ALEGRIA MEDINA SERGIO,950027711,PJE CALFURAY AL 2240 CORONEL, CORONEL,"nombre:ALEGRIA MEDINA SERGIO
+rut:125314597
+cliente solicita punto de red $24990 en 3 cuotas en  PJE CALFURAY AL 2240 CORONEL//valida titular//correo salegria1973@gmail.com//
+fc:+56950027711
+ns:528329388
+id:20f3829f-949d-49c3-8182-59550b0748ac//rmunozh.",20f3829f-949d-49c3-8182-59550b0748ac,Punto red adicional,CNCP,2023-11-11 00:00:00,Carlos Campos,Finalizada, ID: 5f57db90-ce4a-4f50-8fd4-c66422c2c8d7,
+2023-11-03 12:33:31,BBMORENO,COM,134062355,CECILIA OJEDA ALTAMIRANO ,930524502,CALLE NUEVA 11,PUERTO VARAS,CLIENTE SOLICITA DECO ADICIONAL EN DIRECCION CALLE NUEVA 11 SE VALIDA VALOR MENSUAL $1990 E INSTALACION $9990 EN 3 CUOTAS/FC:930523520/SERIE:515157768/ID:8f7b06ae-6087-47af-8e9c-2c8b34f6d1e6,8f7b06ae-6087-47af-8e9c-2c8b34f6d1e6,STB adicional,,,,,,
+2023-11-03 12:47:09,NOPAZO,COM,169006601,KATHERINE IBACACHE,991892826,CERRO LOS RISCOS 970,PUCON,"traslado interior adsl + tv direccion CERRO LOS RISCOS 970 pucon costo 18000 - 3 cuotas 
+ID: ce9628f6-4686-4a0f-bd17-7fd6143b44af
+rut 169006601
+serie 515616941
+fc 991892826
+correo ibacachekatherine@gmail.com
+N° DE SOLICITUD 12481690",ID: ce9628f6-4686-4a0f-bd17-7fd6143b44af,Traslado interior,VLLC,15-11 16-17,Walter Antipan,Asignado,ID: 0ea85402-85a5-46d7-b197-3c9413c37d53,
+2023-11-03 13:16:59,CCCHAVEZ,COM,132105006,YANET MAYORGA ,981549742,Goleta Ancud S/N Resto Frente Esq Vista Hemosa, DALCAHUE,"TRASLADO INTERIOR , COSTO $18000 EN 2 CUOTAS 
+SERIE 110899520",Conversation ID: 6fad1feb-69c1-4742-a6f1-33f5c8cece7e,Traslado interior,CHLE,no responde,no responde,Pendiente,ID: 35caf023-0385-481f-8fc4-292ee222e2c3,
+2023-11-03 13:49:10,ALDO BUCCA,COM,161991368,VICTOR BOZT ROJAS,932222262,IGNACIO DE LA CARRERA CUEVAS 1443,COYHAIQUE,"CLIENTE SOLICITA TRASLADO INTERIOR BA 
+COSTO 3 CUOTAS 
+ ID: e449e4b5-3ffe-44da-808f-8b4313d16363
+FC 932222262 N° 523262498", ID: e449e4b5-3ffe-44da-808f-8b4313d16363,Traslado interior,CYHQ,00:00:00,0,Desiste,da8b9af6-24aa-4635-9dff-662c82227e9a,
+2023-11-03 14:00:48,AIOYARCE,COM,786554209,Monica Kaschel,996820537,LOS RODODENDROS 130,PTO. VARAS,"Indica que sus instalaciones son muy antiguas, tiene lleno de cables en mal estado y lleno de aparatos... necesita que revisen su instalación completa y vean solamente lo necesario y si fuera el caso actualizar equipos. Reinstalación total.",01556f50-afb0-41a6-82f9-8b56728ad3c8,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-11-03 14:11:56,MCFLORES,COM,125405835,988610980,988610980,HERMANOS CARRERA 422,FUTALEUFU,TRASLADO INTERIOR QUE YA FUE SOLICITADO LE LLAMARON PARA COORDINAR EL DIA MARTES Y QUEDO CORDINADO PARA EL DIA  JUEVES 2 -11-23 CLIENTE SOLICITA QUE LE LLAMEN POR QUE NADIE ASISTIO NI LE LLAMARON TECNICOS,c3aad26a-06ad-4873-a12d-c0115c83acfe,Traslado interior,CYHQ,00:00:00,0,Pendiente,0,
+2023-11-03 14:30:26,NOPAZO,COM,91891522,ALBA VASQUEZ,933932815,volcan puntiagudo 1041,PTO MONTT,"cliente SOLICITA traslado interior 18000 - 3 cuotas direccion volcan puntiagudo 1041 pto montt , + agrega equipo eero 2990 
+ID: 7f20058e-ec6a-4612-91e0-8d5f3838fa50
+ALBA VASQUEZ
+rut 91891522
+serie 529812458
+fc 933932815
+correo avasque2@uach.cl
+
+N° Solicitud 14319189",ID: 7f20058e-ec6a-4612-91e0-8d5f3838fa50,Traslado interior,PMTT,00:00:00,0,Pendiente,0,
+2023-11-03 15:00:50,AFICA,COM,159270890,MAURICIO PACHECO SOTO,945102140,"Jorge Roger N°768, Villa Alerce, Castro",CASTRO,Cliente desea realizar traslado interior y activar 2 decodificadores.,db0ef724-d871-4b65-af20-af5920f5b6bc,Traslado interior,CHLE,14-11 entre 15-16hrs,daniel quijada,Asignado,ID: a24728c3-57f3-4cf3-be8a-02f86a114583,
+2023-11-03 15:08:39,SANDRA FLORES MELLADO,COM,93293010,MARCELA HENRIQUEZ,998842724,CALLE OHIGGINS 680 OFICINA 506,CONCEPCIÓN,CLIENTE SOLICITA TRASLADO INTERIOR MODEN O REINSTALACIÓN DEL MISMO. SE PINTÓ LA OFICINA Y QUEDÓ DESCONECTADO SE INFORMA COSTO $18000/3 ,Conversation ID: 857eb49c-297c-46b6-b3f8-c4468f51e550,Traslado interior,CNCP,00:00:00,0,Desiste,ID: 90f4f920-998a-449e-b275-d52f9791ab8d,
+2023-11-03 15:27:04,RMUNOZH,COM,79982512,VARGAS ZUNIGA LUIS,983926563,ARTURO PRAT 641  PTO. MONTT,PTO. MONTT,"nombre: VARGAS ZUNIGA LUIS
+rut:79982512
+cliente solicita reinstalacion de servicios de internet y iptv//acepta costo $18000//en 3 cuotas//valida titular//direccion ARTURO PRAT 641  PTO. MONTT//correo luis.avarzu@gmail.com//ademas agrega 1° REPETIDOR ADICIONAL ROUTER WIFI $990//
+fc:+56983926563
+ns:523320526
+id:ba3e9721-7ad2-49b2-8b98-9edb876ef4e2//rmunozh.",ba3e9721-7ad2-49b2-8b98-9edb876ef4e2,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-11-03 15:45:15,mespinoh,CCDD,156812528, RODRIGO ALEJANDRO QUIROGA GRAN,976954841 ,DOCTOR AHUES 3  QUELLON ,quellon,"156812528  RODRIGO ALEJANDRO QUIROGA GRAN // TITULAR // FC, 976954841 / desea la baja de un deco//  favor validar baja  // direccion: DOCTOR AHUES 3  QUELLON  //  86568116-6e4d-4137-8760-74c00e9e6668
+ ",86568116-6e4d-4137-8760-74c00e9e6668,Elimina STB,CHLE,13-11 entre 16-17hrs,edwars montiel,Finalizada,Conversation ID: 963a1b31-3615-4386-a59f-4aa79bafc61c,
+2023-11-03 16:25:04,MCARO,COM,142124084,HERRERA DAZA GISELLA IVETTE,920051707,"AVENIDA LOS PARQUES 160 CASA 27, SAN PEDRO DE LA PAZ",SAN PEDRO DE LA PAZ,CLIENTE SOLICITA DECO ADICIONAL $1.990 INSTALACION $9.990 EN 3 CUOTAS SERIE 521069651 ID: f30190d8-2a16-480b-91c2-dcd235e483d5,ID: f30190d8-2a16-480b-91c2-dcd235e483d5,STB adicional,,,,,,
+2023-11-03 16:40:46,JJSAEZ,COM,115216074,MAURICIO CUETO SILVA,989062683,IGNACIO SERRANO 655,COYHAIQUE,Cliente solicita reinstalacion / costo $18000 en 3 cuotas / ns 528505070/ fc 989062683/ ID: b9690643-637b-4726-a6c9-fc927b70dcd6,ID: b9690643-637b-4726-a6c9-fc927b70dcd6,Reinstalación,CYHQ,00:00:00,0,Desiste,5f8ab2e5-7b3a-45dc-9660-3797cba73283,
+2023-11-03 17:07:17,SANDRA FLORES MELLADO,COM,107833110,DAVID BENITEZ JIMENEZ,978391413,CALLE WOLLETER N° 475,PUERTO MONTT,CLIENTE SOLICITA AGREGAR DECO ADICIONAL A DOMILIOO COSTO ARRIENDO $  COSTO INSTALACIÓN  RENTA MENSUAL 1990 COSTO VISITA 9990/3,Conversation ID: a59d6daa-a5c5-4750-8fde-d67c1c2eb994,STB adicional,,,,,,
+2023-11-03 17:14:31,SANDRA FLORES MELLADO,COM,121454874,LILIANA CARCAMO,996255836,PEDRO MONTT 461,QUEMCHI,CLIENTE SOLICITA INSTALAR AP HISPEED  COSTO VISITA $9990/3 Y RENTA MENSUAL $990,Conversation ID: ec8bb6ce-ac4a-4042-8c9c-6014c3c4a454,Agrega AP,,,,,,
+2023-11-03 17:33:33,EMIRANDA,COM,135821098,PAINEO LEVIO DORIS,945801710,PJE LOS BONGOES 153 (LABRANZA),TEMUCO,"CLIENTE SOLICITA deco adicional $1990, INSTALACION $9990 (3 CUOTAS)
+Doris.paineo@slepca.cl
+Nombre : PAINEO LEVIO DORIS
+Domicilio : PJE LOS BONGOES 153
+Ciudad : TEMUCO
+RUT : 13.582.109-8
+Conversation ID: 2964b1dd-f8eb-41e3-afb3-a5c8e91e12b4
+NS: 528115148
+Numero Telefónico: tel:+56945801710",ID: 2964b1dd-f8eb-41e3-afb3-a5c8e91e12b4,STB adicional,,,,,,
+2023-11-03 17:40:14,NOPAZO,COM,99290919,nelson albornos,994438012,PANORAMA 131 temuco,temuco,"Don nelson albornos rut 99290919 contrata deco adicional 1990 instalacion 9990 - 1 cuotas direccion  PANORAMA 131 temuco 
+
+ID: b5310f03-7b14-4fa7-b5ae-9007010aa2bd
+nelson albornos
+rut 99290919
+serie 519283251
+fc 994438012
+correo inmobiliariarentasur@gmail.com
+n° solicitud 17469929",ID: b5310f03-7b14-4fa7-b5ae-9007010aa2bd,STB adicional,,,,,,
+2023-11-03 19:15:04,MFCESPED,COM,125255000,LORENA MARGARITA MOLINA SABA,976757322,"TORRE MOLINA 2853 CASA 5, VALLE ESCONDIDO PAICABI",CONCEPCION,DESEA AGREGAR PRIMER DECO CON RENTA DE 1990 INSTALACION,8e54c0b1-21c5-483c-84a3-531ce4fc04c1,STB adicional,,,,,,
+2023-11-04 08:00:14,PCATRICH,COM,175950532,ZACKIA CAMPOS VILLEGAS,997451111,"CERRO LA VIRGEN 1742, COIHAYQUE",COIHAYQUE,"ZACKIA CAMPOS VILLEGAS //175950532//NS 522674575//zackiacampos@gmail.com//FC 997451111, 94776692//CERRO LA VIRGEN 1742, COIHAYQUE//TRASLADO INTERIOR SERVICIOS (POR TRABAJOS DE REMODELACIÓN)//ACEPTA COBRO $18,000//3 CUOTAS//ID b80f2e1d-f059-4df4-988b-6ef8b95bc48e 09251759",b80f2e1d-f059-4df4-988b-6ef8b95bc48e,Reinstalación,CYHQ,2023-11-14 00:00:00,CAMILO REYES,Finalizada,bdd28522-3cc4-412a-b07e-47eee22df58e,
+2023-11-04 09:18:40,csmorale,COM,14372669k,RODRIGO ALFREDO MARTINEZ MONTALBA,998329963,"LOS PIRINEOS 88, CONJUNTO RESIDENCIAL RAYOLA, SAN PEDRO DE LA PAZ",SAN PEDRO DE LA PAZ,"Cliente llama solicitando contratación de deco adicional se informa cobro de $1,990 y costo de instalación $9,990 en 1 cuota id c13e9ff3-6525-42c6-ae2d-071b0d826a00
+serie 529729176
+fc 998329963
+mail rodrigo7475@hotmail.com",c13e9ff3-6525-42c6-ae2d-071b0d826a00,STB adicional,,,,,,
+2023-11-04 10:46:07,DEVILLAL,COM,117165698,ALMONACID TERUMAN NANCY MARLEN,979586768,PJE CIRUELILLO 832 (INTERIOR),ANCUD,CLIENTE SOLICITA ALTA DE DECO EXTRA + REPETIDOR INTERNET. ACEPTA INSTALACION 3 CUOTAS,e4c18993-bd44-4f46-8eb3-d78c94a3cb55,Agrega deco + AP,,,,,,
+2023-11-04 11:08:50,ALDO BUCCA,COM,136092413,ELEXIO GEOFFRE AMESTICA LOVER,989240453,PJE LOS KENAS 1840,VALDIVIA,"CLIENTE EN OFICINA VALDIVIA EL DIA 
+28-10-23 agrega rep adic wifi / se informan los costo y acepta favor gestionar instalación lo mas rápido posible 
+ID: 4536b331-0603-4650-ab22-fd20770adede
+fc 989240453", ID: 4536b331-0603-4650-ab22-fd20770adede,Agrega AP,,,,,,
+2023-11-04 11:41:34,jequijad,CCDD,931866106,FERNANDEZ ESCOBAR RENE MARCELO,931866106,PASAJE JORGE MARDONES 0265,TEMUCO, solicita  ROUTER winstar adicional (1.990$ mensuales)/ Correo electrónico: renne.fe@gmail.com / 9.990$ en 3 cuotas / ns 524287429 (ESTADO	Vigente) , d2ed3993-79d5-4143-9103-9c0a955c251f,Agrega AP-Eero,TMCO,DESISTE,DESISTE,ANULADA,Conversation ID: e3cc1f3f-7206-43ea-8099-e737ad972421,
+2023-11-04 12:41:36,rptorres,CCDD,200183339,Santana Alvarez Alfonso Alejandro,954806178,PARQUE OJOS DEL CABURGA 574 ,VALDIVIA,200183339 // Santana Alvarez Alfonso Alejandro // wsp 58e29120-8dd8-4df8-8530-40c88cfcde6f // fc 954806178 // desea eliminar 2 decodificadores,58e29120-8dd8-4df8-8530-40c88cfcde6f,Elimina STB,VLDV,00:00:00,0,Pendiente,0,
+2023-11-04 13:28:02,NPINILLA,COM,183511831,YESSENIA OJEDA,948834729,JUAN ANTONIO RIOS 261,FRUTILLAR,"Necesita reinstalacion de servicios por arreglos en su domicilio, se valida con titular serie 530733562 fc 948834729-922445325 correo yesseniaojedamora93@gmail.com SIN COSTO CONTINGENCIA, CLIENTE INFORMADA Conversation ID: b2144367-f69d-4c5f-b4df-baae1e08bd1b",b2144367-f69d-4c5f-b4df-baae1e08bd1b,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-11-04 13:59:40,iperez,CCDD,111156913,BARRA PRIETO ELIZABETH,985323865,Colbun 2151 el Romeral Rahue Alto ,OSORNO,"111156913 / BARRA PRIETO ELIZABETH / titular solicita reinstalación porque su vecino quiere realizar una amplicación y el cable pasa muy cerca de su casa, cliente indica le están reclamando por eso, se informa costo $1800 en 3 cuotas se validan datos: Elisabeth Barra Prieto
+11115691-3 / 526323421 nro serie / Colbun 2151 el Romeral Rahue Alto / barraelisabeth799@gmail.com / FC 985323865 ID: e64ac860-8aed-412b-8cae-299b750b6f83",e64ac860-8aed-412b-8cae-299b750b6f83,Reinstalación,OSRN, ,0,Desiste,ID: e682f59e-8d3d-46c8-8588-fef36afff56a,
+2023-11-04 14:13:33,nsandoval,CCDD,169017891,MARIA JOSE GUZMAN,+56988279654,VELERO KARMAR 1063,PTO. MONTT,"VENTA
+RUT:169017891
+NOMBRE:MARIA JOSE GUZMAN
+DOMICILIO: VELERO KARMAR 1063
+COMUNA:PTO. MONTT
+FC:+56988279654
+CONSULTA:CLIENTE SOLICITA DECO ADICIONAL.
+ID:46025120-61d2-4aca-83da-a81adabb51e8
+",46025120-61d2-4aca-83da-a81adabb51e8,STB adicional,PMTT,00:00:00,0,ANULADA,Conversation ID: 3c9f3e2c-496f-4685-a8d9-5cfa03e5e418,
+2023-11-04 16:22:29,RMUNOZH,COM,178904574,LISETT ARIANA ARJEL TIHUEL,930519546,CRUCE OYARZUN SN CALBUCO,CALBUCO,"nombre: LISETT ARIANA ARJEL TIHUEL
+rut:178904574
+cliente solicita cambiar megas indica que paga mucho en direccion de CRUCE OYARZUN SN CALBUCO//se le ofrece  INTERNET HOGAR 600/600 Mbps
+(Router Wifi o Eero 6) $ 21,990//y solicita reinstalación para su servicio en otra casa que esta en el mismo sitio a 2 metros de su actual ubicación//acepta costo $18000//3 cuotas//valida titular//correo arjellisett@gmail.com//
+fc:+56930519546
+ns:529545785
+id:b0681c80-37e5-4e52-892b-c921e8da85a2//rmunozh.",b0681c80-37e5-4e52-892b-c921e8da85a2,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-11-04 18:59:44,CCCHAVEZ,COM,168054548,BARRIA QUIJADA LUIS,942966766,VOLCAN VILLARRICA 0257,TEMUCO,"AGREGA PNTO DE RED 24990 EN 3 COTAS 
+
+SERIE 516438171",53af8ad0-12c5-48c7-a464-0db8fcd954f4,Punto red adicional,TMCO,13-11 entre 14-15 hrs,Marcelo Calfucoy,Finalizada,Conversation ID: dd851c26-11b5-459f-a930-368f633901ab,
+2023-11-06 09:04:52,NOPAZO,COM,15968749K,caroline parra,932785843, divisadero 2164,coyhaique,"dia viernes llamo solicito un tecnico esta sin servicios por trabajos en domicilio desarmo una escalera y se corto el servicio, solicita reinstalacion 18000 - 3 cuotas direccion 
+divisadero 2164 coyhaique 
+
+ID: 8e37ce02-3dd7-4e16-badc-7581db59a9b6
+
+coroline parra
+rut 15968749K
+serie 520723783
+fc 932785843
+parracaroline@gmail.com
+n° de solicitud 09101596",ID: 8e37ce02-3dd7-4e16-badc-7581db59a9b6,Reinstalación,CYHQ,00:00:00,0,Pendiente,d1695fea-bc34-43c6-a927-05338e66351d,
+2023-11-06 09:22:33,NPINILLA,COM,165862791,FELIPE SANTANA ,964471195,AVENIDA DIEGO DE ALMAGRO 2550 DPTO 104 TORRE D,PUERTO MONTT,"Cliente solicita traslado interior equipos interner sin costo por contingencia se valida fc 964471195 CORREO andreaclaudiagallardoalmonacid@gmail.com serie 512774892 
+Conversation ID: c5e2f47a-9509-4d94-afb0-28011a42ee01",c5e2f47a-9509-4d94-afb0-28011a42ee01,Traslado interior,PMTT,00:00:00,0,Pendiente,0,
+2023-11-06 10:01:23,MAQUIJAD,COM,93323580,MOISES ROGEL ,979247784,"BERNARDO OHIGGINS S/N, RIO NEGRO,HORNOPIREN",HORNOPIREN,"CLIENTE INDICA QUE INGRESO REQUERIMIENTO DE REINSTALACION HACE 2 MESES Y AUN NO SE COMUNICAN PARA AGENDAR /FC 979247784/BERNARDO OHIGGINS S/N, RIO NEGRO,HORNOPIREN //FAVOR AGILIZAR / ID: 33087fc1-9850-4a87-a6cb-9ea6d6b7c471",ID: 33087fc1-9850-4a87-a6cb-9ea6d6b7c471,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-11-06 10:06:34,igodoy,CCDD,45820882,JORGE NEGRON VERA || Contacta Nicole hija,979168646 || ,PASAJE SACERDOTE OSVALDO BARRIA GARCIA 2551,CASTRO,"Cliente quiere dar de baja 1 decodificador por no uso. Menciona ser hija del titular, adulto mayor, quien no puede contestar telefono, solicita llamado despues de las 6 de la tarde.",e47e02e8-4f1d-456c-a745-095da8aa10d5,Elimina STB,CHLE,no responde,no responde,Pendiente,ID: 57b5b2af-12ae-484c-8343-8565538cd819,
+2023-11-06 11:16:10,LANAIPIL,COM,163732041,GAVILAN ESPINOZA PATRICK GABRIEL,976407569,PASAJE MANUEL BLANCO ENCALADA UNO CASA 1872,CORONEL,"AMENAZA CON BAJA, DON PARTICK SOLICITA REINSTALACION Y EVALUACION DE SUS EQUIPOS, POR REITERADAS FALLAS TECNICAS, AGREGA QUE FUE TECNICO A SU DOMICILIO Y LE INFORMA QUE APARENTEMENTE LA INSTALACION DEL ALTA NO FUE CON LA FIBRA DE TELSUR, SOLICITA SE REINSTALE SIN COSTO, DE LO CONTRARIO SE RETIRA DE TELSUR, FAVOR AUTORIZAR SIN COSTO, SE INFORMA AL TITULAR QUE BAJO VB DE JEFATURA. SE VALIDA FC 976407569 SERIE 109032662 ID 459fd42b-bae4-4266-b874-d1bcd801932e
+",459fd42b-bae4-4266-b874-d1bcd801932e,Reinstalación,CNCP, ,0,Desiste,ID: d7813320-a4df-46d7-af7e-31d0e4f1cd73,
+2023-11-06 11:16:26,cbavenda,COM,112419276,gladys hermosilla burgos,998936873,almagro #1317,los angeles,"cliente solicita traslado de manera urgente, ya se le indica a cliente que estamos sin sistemas pero insiste en solicitud
+n° cuotas: 3
+ID1816fbfd-2dfc-428f-b5c5-b92122a3f205/fc:998936873/region del bio bio/ los angeles/almagro #1317/hermosillaburgosjaqueline@yahoo.cl",ID1816fbfd-2dfc-428f-b5c5-b92122a3f205,Traslado interior,LANG,2023-11-13 00:00:00,Matias Salgado,Finalizada,ID de conversación: 4c77a474-f36d-44cb-8e7c-4c1466a5e4a6,
+2023-11-06 11:27:42,RAMIRAND,COM,173610696,HERNANDEZ NAVARRO LISSETTE ALEJANDRA,987977820,AVDA FRANCIA 1720 TORRE 3 DP 105,OSORNO,"titular llama para solicitar alta deco adicional indica que mantenía dos pero se extravió el segundo. se le indica costo de instalación de $9.990 lo deja en 3 cuotas (sin renta mensual ya que segundo viene incluido en el plan)
+fc:987977820 985032097
+email:makk777@hotmail.com
+id:41a1e50c-5e63-45d6-9952-ddcff0bc0b14",41a1e50c-5e63-45d6-9952-ddcff0bc0b14,STB adicional,,,,,,
+2023-11-06 11:34:48,NPINILLA,COM,120799495,ISAURA RUDLOPH,936206704,VOLCAN CARRAN 200,LAGO  RANCO,Solicita traslado interior sin costo por contingencia se valida titular fc 936206704 serie 524256308 Conversation ID: 125fdff8-b20a-4d49-a458-aeed32e992f0,125fdff8-b20a-4d49-a458-aeed32e992f0,Traslado interior,OSRN, ,0,posterga cliente,3ed3ebf6-75c2-48eb-9af1-f88343ee27f6,
+2023-11-06 12:32:50,ACORVAL,COM,161555541,MARIA ARAVENA SANDOVAL,999998754,PASAJE 21 B 460,CHIGUAYANTE,"cliente molesta porque necesita 1 deco, llamo el dia 30-10-2023, le dijeron que la llamarian
+perono fue asi, se informa que hay problemas
+de sistemas e indica que no es su problema,por lo que insiste en realizar solicitud y sino ira al SUBTEL",ID: 8ea4b096-09d1-43bb-8ed2-1bc8c05b23dc,STB adicional,,,,,,
+2023-11-06 12:42:09,NPINILLA,COM,766203299,CHRISTIAN AVILA,932291416,JULIO BUSCHMANN 2429,OSORNO,"Solicita reinstalacion deco pendiente en alta, tiene equipo en domicilio, sin costo por contingencia, se valida rut 140967165 SERIE 528842725 FC 932291416 ID  7d6aa337-2e58-4cda-921c-3bd34a5a48c9", 7d6aa337-2e58-4cda-921c-3bd34a5a48c9,Reinstalación,OSRN,2023-11-13 00:00:00,Jorge Torres,Finalizada,ID: 4f2b601d-0313-4320-bcbc-b2176f8114e8,
+2023-11-06 13:05:09,LROSAS,COM,131570341,NAVARRETE MORALES PAMELA ROMAN,983221825,ISLA JUAN FERNANDEZ 03590,TEMUCO,cliente solciita traslado interior para todos sus servicios se ingresa si ncosto cliente acepta y se valida en linea NS:526176980,a8e5ba63-cf08-4f47-bdca-30c1dd2dc559,Traslado interior,TMCO,14-11 entre 10-11 hrs,Marcelo Calfucoy,Finalizada,ID: a6fc6bf2-0afe-4141-a839-209159aaeb94,
+2023-11-06 13:28:51,LROSAS,COM,156768863,MARIA ANTONIETA JONES VENAVIENTE,96439378,CAMINO BERNARDO HOGGINS PARCELA 36 LOTE 8,CHILLAN,"CLIENTE SOLICITA TRASLADO INTERIOR ADEMAS DE CAMBIO DE FIBRA OPTICA EN DOMICILIO , POR MALA INSTALACION DE LOS MISMOS YA QUE PRESENTAN PROBLEMAS Y SE INFORMA QUE SE PUEDE INGRESAR SIN COSTO PERO TITULAR NO ESTA EN LINEA SOLICITA LA COMUNACION A ESTE NUMERO PARA VALIDAR ",d428b09b-f301-4d47-8307-5fd81040ac77,Traslado interior,CHLL,13-11 17 a 18 hrs,francisco huiñez,Finalizada,28773a44-54bb-400a-bd06-052d8fa7b6c4,
+2023-11-06 13:40:18,rptorres,CCDD,66716961,Parra Streubel Miguel Angel // Carmen Gloria Nickel,962390095,MADRIGAL 257 ,CONCEPCION,66716961 // Parra Streubel Miguel Angel // Carmen Gloria Nickel wsp 9eac1eb8-2006-486f-b8cf-78638b4ca2d1 // fc 962390095 // solicita 2 router adicionales // informada de coste de instalcion y rentas mensuales // pide contacto con titular,9eac1eb8-2006-486f-b8cf-78638b4ca2d1,Agrega AP-Eero,CNCP,2023-11-10 00:00:00,Christian Pino,Finalizada,ID: f2a0b7df-e683-4ec6-a6a0-b262e6e2b90b,
+2023-11-06 14:19:33,GVALLE,COM,152714459,AGUERO OYARZO KARINA NOEMI,947495696,LOS ALERCES 2248,RIO BUENO,"Martin y TITULAR SOLICITA traslado interior para dos decodificadores tv $18.000 EN UNA CUOTA 
+AGUERO OYARZO KARINA NOEMI
+Domicilio : LOS ALERCES 2248
+Ciudad : RIO BUENO
+RUT : 15271445-9 NS. 516845416
+
+152714459 correo : karlu3112@gmail.com 
+ID: 4994e429-76dd-4f88-8f19-c84d8e4c1b95
+Cola servicio: RNZS_COM_COM
+Numero Telefónico: tel:+56948740333
+9503208061 947495696. ",4994e429-76dd-4f88-8f19-c84d8e4c1b95,Traslado interior,OSRN,2023-11-11 00:00:00,Cristian Vidal,Finalizada, ID: 81e13353-ee91-4a60-b393-c15a86bc5a95,
+2023-11-06 14:26:01,DEVILLAL,COM,762975068,INMOB E INV DOÑA LUCRECIA SA,992276876,"CASTELLON 176, LOCAL 2",CONCEPCION,SOLICITA TRASLADO INTERIOR DE BA,8d471361-10d9-4b4c-b856-043bea78b8e2,Traslado interior,CNCP,00:00:00,0,Desiste,0,
+2023-11-06 14:26:11,IACUNA,COM,182067903,PABLO ANDRES OYARZO ESPINOZA,968056710,HORACIO OÑATE 1680,LA UNION,"Solicita traslado interior, favor agilizar en lo posible debido a que tiene dificultades para atender después del miércoles. 18mil en 3 cuotas // fc 968056710-997301573",f2710ad8-6aae-4473-9793-13e92b648ab4,Traslado interior,OSRN,2023-11-13 00:00:00,Cristian Vidal,Asignado,0,
+2023-11-06 14:33:37,RAMIRAND,COM,168195796,AHUMADA FIERRO FELIPE IGNACIO,981561175,LOS LILES 965,COYHAIQUE," titular llama para solicitar la baja de sus servicios motivo solicito visita técnica el cual técnico el dia de hoy no realizo gestión ya que servicios corresponderían a reinstalación el cual molesto solicita la baja total. se le ofrece la opción de reinstalación sin costo bv jefatura titular acepta./favor solicitar reinstalación sin costo por baja solicitada por titular.
+fc: 981561175
+
+id:6e80ccd9-ef5f-4730-a6ac-aecd856832f6",6e80ccd9-ef5f-4730-a6ac-aecd856832f6,Reinstalación,CYHQ,2023-11-14 00:00:00,SEBASTIAN ELGUETA,Finalizada,97fdc1fc-26cd-4edb-a344-f5d701aa0004,
+2023-11-06 14:35:39,DEVILLAL,COM,69119093,ADRIAN PAREDES,987429993,MADRE PAULINA MALLINCKROAT 32,ANCUD,SOLICITA TRASLADO INTERIOR EN 3 CUOTAS,7d4e921e-280c-48a6-a3b9-a0b39e2e849c,Traslado interior,CHLE,13-11 entre 14-15 hrs,roberto paredes,Finalizada,Conversation ID: ed01d76e-4d2a-4d17-a617-0c5376c0610c,
+2023-11-06 14:42:54,DEVILLAL,COM,181472073,YISSLEY CIFUENTES,967163798,CAMINO A BOTROLHUE 02483 806,TEMUCO,"CLIENTE SOLCITA TRASLADO INT DESDE CAMINO A BOTROLHUE 02483 806 || FC: 967163798 || 985584464 || BA 900/600 || DESTINO: CALLE ZIEM 1894, DEPTO 1101, TORRE A  COND NAHUEN. TEMUCO. ",bd95be43-e991-4bd1-9409-d3532596303f,Traslado interior,TMCO,SIN FACTIBILIDAD,SIN FACTIBILIDAD,SIN FACTIBILIDAD,Conversation ID: 973885ab-2c3e-4f71-b49c-439e5c872b58,
+2023-11-06 15:36:24,jhuenchc,COM,135932825,BUSTAMANTE NANCUPILLAN BERNARDA,967889758,LAS VIOLETAS 20,ANCUD,"REINSTALACION ADSL + TV / COSTO $18.000 3 CUOTAS / NOMBRE: : BUSTAMANTE NANCUPILLAN BERNARDA DIRECCIÓN: LAS VIOLETAS 20, ANCUD / mail. vbustamante.qkt@gmail.com / folio_ 15411359  / 
+Id_ 81127bee-adcd-45d6-bbdc-1ecc645eaddc SERIE_ 518232445  FC_967889758",81127bee-adcd-45d6-bbdc-1ecc645eaddc,Reinstalación,CHLE,13-11 entre 15-16hrs,bastian barria,Finalizada,Conversation ID: 09c761bc-4f20-4d9a-97a2-e5372ae2cda0,
+2023-11-06 16:04:35,XBUSTAMA,COM,77431667,FRANCISCO LOBOS   ,974963481,CAMILO MORI  860,CHILLAN ,CLIENTE SOLICIOTA TRASLADO DE MODEM .- ,Conversation ID: 0194b13b-a39f-4247-8f6c-b14b69fcf2ed,Traslado interior,CHLL,2023-11-13 00:00:00,Jose Sepulveda,Finalizada,Conversation ID: 1444d92a-611a-43f3-abd1-3148da55fd07,
+2023-11-06 16:06:06,CIBARRIE,COM,96674996,SUIYAN SALINAS AGUIRRE,994526330,EXTENSION AVENIDA PORTAL DEL LIBERTADOR 977 CON FLORES MILLAN,CHILLAN,"REINSTALACION / cliente informa que le entraron a robar y cortaron cable de 1 deco, necesita reinstalacion y paga costo de $18000 / 1c  / ID: 5304ad39-e3fd-477e-aca1-9b123f6090f2 fc 994526330 ns 102211561", ID: 5304ad39-e3fd-477e-aca1-9b123f6090f2,Reinstalación,CHLL,DESISTE,DESISTE,ANULADA,0,
+2023-11-06 16:19:00,IACUNA,COM,186857542,FABIOLA CONSTANZA SOTO MONTOYA ,937450124,CALLE ARAGON 649,TALCAHUANO,Traslado interior en 3 cuotas // serie 531094144,01002384-667b-4f6d-8db0-89eff9e5b5e3,Traslado interior,CNCP,00:00:00,0,5to llamado sin contacto,0,
+2023-11-06 16:57:21,MCFLORES,COM,118053443,COSME ALVARADO NELLY,972544444,"BERNARDO O""HIGGINS 615 DP 411 (B)",OSORNO,REPETIDOR EROS 2990 COSTO 9990 3 CTS SERIE 523911447,219101e6-7267-4df9-bea4-0bca113459f3,Agrega AP,,,,,,
+2023-11-06 16:58:00,DEVILLAL,COM,966967464,ARRIAGADA IMIGO JONATTAN,966967464,LOS NANDUES 594,VALDIVIA,"SOLICTA TRASLADO INTERIOR, EN 3 CTAS",3d403220-820c-4126-99a9-645f4b082810,Traslado interior,VLDV,2023-11-11 00:00:00,Crsitobal Manriquez,FINALIZADA,343c9686-ecfd-4ea1-aef1-316884b5d120,
+2023-11-06 17:17:23,XBUSTAMA,COM,88942949,JORGE GALLARDO TECA,973323038,EL CLARO PARCELA 18  PASAJE 1,COYHAIQUE,CLIENTE SOLIOCITA AGREGAR UN DECO EXTRA DE $1990  CON INSTALACION EN 1 CUOTA .-,Conversation ID: b1955718-3c90-4999-a05f-,STB adicional,,,,,,
+2023-11-06 17:24:29,ymartine,CCDD,8805542k,Ivan Brandt ,964879798,LOS AROMOS 0253 - Temuco,Temuco,"Sr (a) Ivan Brandt solicita contratar  ROUTER EERO adicional  o migrar a un plan que incluya 2 equipos EERO. Favor revisar - Contactar. Gracias 
+ID 3009b518-1eba-4968-98d1-b982f1c8ef15
+RUT TITULAR: 8805542k | NOMBRE TITULAR:  BRANAT MACHMAR IVAN ALEJANDRO | FONO: 964879798
+DIRECCION: LOS AROMOS 0253 - Temuco
+",3009b518-1eba-4968-98d1-b982f1c8ef15,Agrega AP-Eero,TMCO,13-11 entre 15-16 hrs,Jose Cuevas,Finalizada,Conversation ID: 57ac9dd6-2724-447a-910a-232bd1f8edaa,
+2023-11-06 18:06:51,AFICA,COM,117959627,GLORIA DIAZ,933276280,"Calle Nahuelbuta N°14, Condominio Alto Mirador, Lautaro.",Lautaro,"Cliente solicita un punto de red,  cliente desea visita técnica despues de las 17:00 hrs.",0b27f66f-3f84-42a8-8695-bb8eb327ba19,Punto red adicional,TMCO,15-11 entre 14-15 hrs,Matias Rodriguez,Asignado,Conversation ID: 46c0810a-ab49-4707-913c-e84f8195a1a3,
+2023-11-06 19:12:28,LANAIPIL,COM,153009503,ANITA MANSILLA BARRIENTOS ANITA,935209038,PJE RIGEL 3017,PTO. MONTT,"DON PABLO ESPOSO DE LA TITULAR AMENAZA CON BAJA, POR REITERADAS FALLAS TECNICAS, MENCIONA QUE TIENE CABLES POR TODOS LADOS, SE LE INFORMA COSTO REINSTALACION, NO ACEPTA, AMENAZA CON CAMBIO A LA COMPETENCIA, SE LE OFRECE REINSTALACION SIN COSTO BAJO VB DE JEFATURA, FAVOR SU REVISION FC 935209038 SERIE 528518384 ID 2b9f3fd5-9b31-476e-a619-87e183fbd6f7
+ANNYBARRIENTOSPV@GMAIL.COM",2b9f3fd5-9b31-476e-a619-87e183fbd6f7,Reinstalación,PMTT,00:00:00,0,Pendiente,0,
+2023-11-06 20:46:06,DEVILLAL,COM,144697405,OYARCE JARA JUAN ANTONIO,985276150,SAN PEDRO 492,FRUTILLAR,solicita instalacion de pto de alta velocidad en 3 cuotas. ,4d8c9759-c4e2-4354-83c6-fcd998dbb4bf,Punto red adicional,,,,,,
+2023-11-07 09:00:27,RAMIRAND,COM,107222022, PABLO ALFONSO AMTHAUER ROJAS ,992194772,E. RAMIREZ 1107 LOCAL 1-2 GALERIA AMTHAUER,OSORNO," titular llama solicita una reinstalacion se le indica costo de $18.000 con opcion 3 cuotas el cual comenta que la semana pasada llamo y le ofrecieron reinstalacion sin costo ya que abandonaria compañia pero no quedo nada registrado. se ofrece reinstalacion sin costo bajo vb titular acepta.
+rut empresa: 762042681
+rut representante legal : 107222022
+fc: 992194772
+email: pabloamthauer@gmail.com
+ns: 519419214
+id:2de13947-df1b-4b5d-95fa-fe80742c5b0f",2de13947-df1b-4b5d-95fa-fe80742c5b0f,Reinstalación,OSRN,2023-11-11 00:00:00,Daniel Aguila,Finalizada,ID: a3fa1606-1940-4c1c-abf5-f3affa4d3157,
+2023-11-07 09:13:11,FBRAVO,COM,94090970, PAULA ANDREA MARIN VIAL,962290657, CAMINO ANGACHILLA S/N (PARCELA 14),valdivia," PAULA ANDREA MARIN VIAL/ 94090970/NS:521368496/Domicilio : CAMINO ANGACHILLA S/N (PARCELA 14)
+Ciudad : VALDIVIA/ motivo: reinstalación tv/ valor 18.000 x 3 cuotas/PAULA.MARIN.VIAL@GMAIL.COM
+ID: 70141182-c9ed-49a6-b389-6c0b0dec0cf3/FC:962290657
+",70141182-c9ed-49a6-b389-6c0b0dec0cf3,Reinstalación,VLDV,00:00:00,0,ANULADA,0,
+2023-11-07 10:01:57,igodoy,CCDD,184280671,ROSARIO RAñIMAN ALVAREZ, 982274281,Aníbal Pinto 1757 interior OSORNO,OSORNO ,"ROSARIO RAñIMAN ALVAREZ || Solicita contratar deco adicional || 2° DECO ADICIONAL HD
+$1.990 + instalacion $9,990 cuotas 1  || direccion Aníbal Pinto 1757 interior OSORNO  || rut 184280671|| ns 532126749 vigente || correo rosaryalvarez@gmail.com ||  fc 982274281  id 87b06ccb-a3eb-4237-a00c-5ef024734fa4 || acepta
+
+",d 87b06ccb-a3eb-4237-a00c-5ef024734fa4 ,STB adicional,OSRN,2023-11-14 00:00:00,Alex Cardenas,Asignado,0,
+2023-11-07 10:31:25,JJSAEZ,COM,93922182,SANDRA DEL PILAR MERINO PERALTA ,944403052,CRISTOBAL COLON 531,OSORNO,"Solicita traslado interior de stb / se informa costo $18000, pacta en 3 cuotas/ ns 529227364/ fc 944403052/ ID: 34755924-afc8-47b0-9de9-0a00c5e14d2a",ID: 34755924-afc8-47b0-9de9-0a00c5e14d2a,Reinstalación,OSRN,00:00:00,0,Desiste,ID: b002f788-07e8-48f9-872e-71e2975c1542,
+2023-11-07 10:45:38,JMVILLAR,CCDD,153015325,JULIO EDUARDO MOLINA ALMONACID,990747044,SECTOR HUYAR RURAL S/N,CURACAO DE VELEZ,"Titular: Julio Eduardo Molina Almonacid /Rut 15301532-5 /Se comunica: Julio Eduardo Molina Almonacid/: C liente señala que necesita reinstalación exterior del servicio por modificación de vivienda. /Se le ofrece con valor de $18.000/ Cliente acepta/Una cuota /Pendiente agendamiento /FC: 990747044 /CORREO:  /SERIE: 520.330.686/Genesys ID: d0eabb14-e152-4f28-b0f8-284ff874b77f
+",d0eabb14-e152-4f28-b0f8-284ff874b77f,Reinstalación,CHLE,14-11 entre 15-16hrs,sebastian aracena,Asignado,ID: 3732de02-e718-4a35-b8b9-a42b4354ef84,
+2023-11-07 10:48:42,CFDIAZ,COM,256739771,RITA RIVAS TORRES,954727252,"PRADERA DEL RINCON 03212, ALTOS MIRASUR DOS, TEMUCO ",TEMUCO,"TRASLADO INTERIOR DE DECO// $18,000 EN 3 CUOTAS// RUT: 25673977-1//NS: 601718045// DIRECCION: PRADERA DEL RINCON 03212, ALTOS MIRASUR DOS, TEMUCO //CORREO: RITARIOS89@GMAIL.COM //FC: 954727252",a1e95d75-5cc9-41fc-9355-6f27f512ea7d,Reinstalación,TMCO,13-11 entre 15-16 hrs,Jose Gutierrez,Finalizada,Conversation ID: f995339b-0e65-41b4-9793-10e4c0093ab2,
+2023-11-07 11:18:38,dcatalan,CCDD,762467550,DISTRIBUIDORA MARCO EL 46 S.A (MARCOS GALLARDO),953537123,LOS ULMOS 226,Fresia,"Cliente solicita traslado interior // solicitada anteriormente // espera que se comuniquen lo antes posible, la requiere urgentemente",ffbaeae1-a851-458e-bee2-1442b2d8a1b5,Traslado interior,PMTT,00:00:00,0,Pendiente,0,
+2023-11-07 11:38:21,cbavenda,COM,124977339,MARIA TERAN,988441421,fernando ojeda del rio SN (ultima casa calipso),LA UNION,"cliente solicita reinstalacion de cableado de fibra optica, ya que saesa instalo postes definitivos, y cableado pasa por casa de vecino, se le indica costo no acepta, se ofrece a mitad de precio no acepta, ya que si no mejor cambia de compañia, se ofrece reinstalacion sin costo, se le informa que igual estamos con demora debido a que estamos sin sistemas, de igual manera se solicita.
+IDac116b04-a688-4a0a-9081-44561c73f033/fc:988441421/mariasoledadteran12@gmail.com/region de los rios/la union/ 
+fernando ojeda del rio SN (ultima casa calipso)",IDac116b04-a688-4a0a-9081-44561c73f033,Reinstalación,OSRN,2023-11-13 00:00:00,Hierzont Guerra,Finalizada, ID: d42548a3-a9e5-4c59-a2ae-c421f048dba4,
+2023-11-07 11:46:09,RAMIRAND,COM,103862183,CASTRO SCHAEFER RODRIGO ANDRES,968304758,ANDALIEN 487 (BOSQUE),VALDIVIA,"se reingresa solicitud pendiente por repetidor adicional solicitado el dia jueves 02/11/23 el cual aun no se contactan con titular se ingresa nuevamente solicitud.
+fc: 968304758
+
+id:349fbd27-f293-4e2d-a6d1-4ec295ffc18a",349fbd27-f293-4e2d-a6d1-4ec295ffc18a,Reinstalación,VLDV,00:00:00,0,Asignado,0,
+2023-11-07 12:07:51,SANDRA FLORES MELLADO,COM,764897439,CONSTRUCTORA MAS SPA,989367342,METRENCO PARCELA SANTA JUSTA G 4 ,PADRE LAS CASAS TEMUCO,SOLICITA AGREGAR REPETIDOR AP HISPEED,Conversation ID: e8c3084c-a424-4a0f-874d-598d57445d31,Agrega AP,,,,,,
+2023-11-07 12:22:18,RMUNOZH,COM,80942567,COMICHEO MILLAN MARIA FLOR,992235803,CAUPOLICAN 54 OSORNO,OSORNO,"nombre:COMICHEO MILLAN MARIA FLOR
+rut:80942567
+cliente desea reinstalar cable que se encuentra sueltos y cruzados//no acepta costo $18000//solicita costo $0//se le ofrece reinstalación costo $0//indica gran valor de su plan nombra oferta claro//se le ofrece 3º y 4º dec. adicional gratis x 12 meses//acepa//valida titular//dirección  CAUPOLICAN 54 OSORNO//
+fc:+56992235803
+ns:108674647
+id:7a017c8d-5d52-4ac7-aa96-26b39ad0ff85//rmunozh.",7a017c8d-5d52-4ac7-aa96-26b39ad0ff85,Reinstalación,OSRN,2023-11-13 00:00:00,Alex Cardenas,Finalizada,ID: c9025fcc-eba2-4056-a17d-9415db9e944f,
+2023-11-07 13:06:26,NOPAZO,COM,136245694,ROBINSON RUBIO,954063979,CAMINO A NONGUEN 547 110,CONCEPCION ,"cliente contrata 1er deco adicional 1990 instalacion costo de instalacion 9990 - 3 cuotas CAMINO A NONGUEN 547 110 Ciudad : CONCEPCION 
+ID: e5f7922f-e4c2-47ba-bde7-e1ab5e14ed28
+
+ROBINSON RUBIO
+RUT 136245694
+SERIE 519801088
+fc 954063979
+CORREO rarmandorubio22@gmail.com
+N° de solictud 13111362",ID: e5f7922f-e4c2-47ba-bde7-e1ab5e14ed28,STB adicional,,,,,,
+2023-11-07 13:32:11,FCORONA,COM,262067440,NESTOR 	PHENOL ,937660480,"caupolican 212, Rancagua",Rancagua,Solicita traslado interior //ns: 602502714 //id:  5ca2998f-6a49-4d58-ae29-e9c6ee658830//fc: 937660480//correo: aracely.delgado.murillo19@gmail.com //costo: $18.000 (3 cuotas) ,5ca2998f-6a49-4d58-ae29-e9c6ee658830,Reinstalación,RNGA,DESISTE,DESISTE,ANULADA,Conversation ID: ea3ee396-a8b0-407c-a2fe-dec0f5837bf1,
+2023-11-07 13:51:53,LROSAS,COM,123455363,: RAIMILLA ASTORGA LUISA VERONICA,993364520,CAICUMEO 1294 (INTERIOR),ANCUD,CLIENTE SOLICITA CAMBIO DE PLAN  SE OFERTA 6147/48000 CLIENTE ACEPTA PERO NO TIENE CI A LA MANO SOLICITA ADEMAS SOLICITA BAJA DE 2 DECOS Y TRASLADO INTERIOR DE TODOS SUS SERVICIOS mac:5COFFD095AB0/mac:5COFFD0966E6/,a15f3300-ceba-42b8-aa7d-abcbd3fdb7b2,Traslado interior,CHLE,14-11 entre 12-13hrs,bastian barria,Finalizada,ID de conversación: 482eb654-bd76-416f-baba-d5b6e57935c9,
+2023-11-07 13:52:36,FCORONA,COM,142280450,CECILIA GUERRERO,968559787,Salvador dali 2002,PUERTO MONTT,Solicita traslado interior//ns:523951896//id:ad8689f3-d8cc-499c-97c7-4afd51ff1301//fc:968559787 // inst. $18.000 (3 cuotas),ad8689f3-d8cc-499c-97c7-4afd51ff1301,Traslado interior,PMTT,2023-11-13 00:00:00,Jorge Azocar,Asignado,0,
+2023-11-07 14:03:50,IACUNA,COM,704498004,ALICIA INES BEHRMANN OETTINGER,941702711,GUILLERMO BUHLER 3051,OSORNO,Solicita reinstalación sin costo por recomendación de área técnica. Se comunica sra Alicia rut 7517845K // serie 110419629,f1ad0291-76d3-4b05-8a9f-f3767bf70871,Reinstalación,OSRN,2023-11-13 00:00:00,Rodrigo Rodriguez,Finalizada,sin contacto  ID: 2e984454-5937-4b32-a468-eb124842702f,
+2023-11-07 14:16:47,JMVILLAR,CCDD,129741856,JULIAN ANDRES PALMA RATTI,997125471,GRAL BONILLA #18,TEMUCO,"Titular: Julian Andres Palma Ratti /Rut 129741856 /Se comunica: Julian Andres Palma Ratti/: Solciita decodificador adicional/ Se le ofrece por $9.990 + alquiler de $1.990 / Acepta /1 Cuota/ Se le informa que por mientras se valida y posteriormente se gestionará la coordinación tecnica./ Señala que no hay problemas. /FC: 997125471 /CORREO: julianpalmar@gmail.com /SERIE: 532839835/Genesys ID: 3239aa9e-ad03-4d87-ad8e-02cb50b94b0e
+",3239aa9e-ad03-4d87-ad8e-02cb50b94b0e,STB adicional,LANG,PENDIENTE,PENDIENTE,Pendiente,"Conversation ID: 49cecc8d-e43b-48ea-801b-b4fbab7d2032, problema de sistema para activar decos en minerva.-",
+2023-11-07 15:19:28,ALDO BUCCA,COM,761299816,SERVICIOS DE INGENIERIA BARRA Y MUÑOZ LIMITADA,982896631,AVENIDA GABRIELA MISTRAL 1255 BODEGA B61, LOS ANGELES,"CLIENTE SOLICITA TRASLADO INTERIOR DE ADSL / COSTO 1 CUOTA / SE INFORMA DEMORAEN TIEMPO DE GESTION DE TRASLADO Y CLIENTE ACEPTA  
+ ID: 5701e998-6393-4f94-8d50-f2ee38d672d8
+FC 982896631 N° 514616603",ID: 5701e998-6393-4f94-8d50-f2ee38d672d8,Traslado interior,LANG,DESISTE,DESISTE,ANULADA,Conversation ID: d766dc06-28b3-4087-a35d-b3448a5135c5.-,
+2023-11-07 16:27:15,NIALISTE,COM,123213661, FABIOLA JOHANNA RIFFO RIFFO,998292139,LINCOYAN 54 DP 802,CONCEPCION,CLIENTE MOLESTA YA QUE HIZO UNA SOLICITUD DE INSTALACION DE EERO ADICIONAL Y NO SE HA TERMINADO DE REALIZAR / SE EXPLICA SE ENCUENTRAN CON INCONVENIENTES CON SISTEMA PARA GENERAR SOLICITUDES DE AGREGAR EQUIPOS / CLIENTE NO CONFORME SOLICITA INGRESAR RECLAMO / SE TERMINA INGRESANDO REINSTALACION YA QUE CLIENTE LO QUE NECESITABA ERA MOVER SU SERVICIO DENTRO DEL DOMICILIO  / FABI73RIFFO@GMAIL.COM  / FC 998292139 / ID  f6345ef7-b5a0-4a25-85d0-24160a98150d, f6345ef7-b5a0-4a25-85d0-24160a98150d,Reinstalación,CNCP,00:00:00,0,Desiste,0,
+2023-11-07 16:57:48,DEVILLAL,COM,116876787,TOLEDO SALGADO ALEJANDRO,966854681,LOS NARANJOS 340,LAUTARO,"CLIENTE SOLICITA REINSTALACION EN 1 CTA. 
+
+FC ALTERNATIVO: 966854681 || 988323193",699a09b9-aa40-479b-9245-f7c47a929213,Reinstalación,TMCO,14-11 entre 11:00 a 11:30 hrs,Matias Rodriguez,Finalizada,Conversation ID: 6b24f4f1-f2b2-4947-89a6-aeb1a4f13f01,
+2023-11-07 17:12:35,CCCHAVEZ,COM,70528568, GONZALEZMORENO MARCOS ANTONIO,991815581, PAUL GAUGIN 2002,PUERTO MONTT,"CLIENTE SOLICITA TRASLADO INTERIOR DE TV SIN COSTO APELANDO A LA ANTIGUEDAD EN LA EMPRESA 
+SERIE 511927769",9da8c191-badd-4616-a1fd-de18a9577539,Traslado interior,PMTT,2023-11-10 00:00:00,David Gonzalez,FINALIZADA,Conversation ID: 43c742cd-b1b3-4e15-a7a0-5ccc381ce098,
+2023-11-07 18:30:57,JLOPEZS ,COM,107153217, POBLETE RIFFO VICTOR HUGO,999203568,AVDA CRISTOBAL COLON 9922 CASA 19 SECTOR HUALPEN,CONCEPCION,SOLICITANDO REINSTALACION SIN COSTO EN DIRECCION  AVDA CRISTOBAL COLON 9922 CASA 19/ SECTOR HUALPEN / CONCEPCION / SIN COSTO / victorpoblete45@gmail.com / ND 513641224 FC +56999203568 ID 2840bf5c-cbc2-40cd-9ba8-71754c1cfac1,2840bf5c-cbc2-40cd-9ba8-71754c1cfac1,Reinstalación,CNCP,2023-11-10 00:00:00,"Javier Gonzalez 
+",Finalizada,ID: 461ea879-26aa-48f9-97b8-a138a5719063,
+2023-11-07 18:41:26,PCATRICH,COM,66716961,MIGUEL ANGEL PARRA,962390095,"MADRIGAL 257, CONCEPCIÓN",CONCEPCIÓN,"MIGUEL ANGEL PARRA 66716961//NS 528080742//drmiguelparra@gmail.com//FC 988296820, 962390095//MADRIGAL 257, CONCEPCIÓN//Solicita 2 y 3° AP Hispeed adicional//renta $1,990 c/u//cargo instalación $9,990 (3 cuotas)//ID 687d56ef-68f7-4ca7-8b5a-e05689eba2ce",687d56ef-68f7-4ca7-8b5a-e05689eba2ce,Agrega AP,CNCP,2023-11-10 00:00:00,Christian Pino,Finalizada,ID: f2a0b7df-e683-4ec6-a6a0-b262e6e2b90b,
+2023-11-07 18:43:24,smaechel,CCDD,173490585,ROMINA ANDREA  BASTIDAS LOPEZ ,979711593,LAGUNA VERDE 300 DEPTO 15 Ciudad : LOS ANGELES,  LOS ANGELES,"INSTALCION PENDIENTE //  
+17349058-5   ROMINA ANDREA  BASTIDAS LOPEZ //   LAGUNA VERDE 300 DEPTO 15 Ciudad : LOS ANGELES	 //   cliente solicita agilizar instalacion de STB que esta pendiente hace una semana // fc 979711593 // ID 2c7c41ae-aea4-4a4e-aada-ce3073e6d81e
+ ", 2c7c41ae-aea4-4a4e-aada-ce3073e6d81e  ,STB adicional,LANG,2023-11-13 00:00:00,Tomas Larenas,Finalizada,Conversation ID: 026f2f82-5ab5-4d05-9f1c-6d540be48123,
+2023-11-07 19:25:23,NPINILLA,COM,107438041,PATRICIA NAVARRO,988068869,JESUS PALOU 2975 DPTO 218,CONCEPCION,"Solicita punto de alta velocidad, se explica demora por contingencia sin costo, fc 988068869 correo patynvphy07@gmail.com serie 525743077 
+Conversation ID: b10fb02a-cebc-4320-8883-8903ecc8a7ec",b10fb02a-cebc-4320-8883-8903ecc8a7ec,Punto red adicional,CNCP,2023-11-10 00:00:00,Xavier Pacheco,Finalizada,ID: 91901f36-140d-4c85-9fe2-5ecbb915ed97,
+2023-11-07 21:01:58,IACUNA,COM,155479027,JAVIER ALEJAN SCHWENCKE CAMPOS,956547919,ANTONIO DUCE 885,VALDIVIA,Cliente solicita agregar repetidor adicional. Molesta debido a que se encuentra llamando por 3 semanas sin respuesta. Solicita contacto cuando pueda ser añadido repetidor.,60ebf1c8-0db8-44d9-84a1-5eb0131fb098,Agrega AP,,,,,,
+2023-11-08 08:20:24,JJSAEZ,COM,93326091,ELISEO CELESTINO,998362442,LOS MAITENES 01 (CABAÑAS BAQUEANOS),VALDIVIA,"Cliente solicita visita de equipo de instalaciones ya que lleva varias semanas su solicitud, indica haber realizado los ductos necesarios para la instalación de 2 repetidores de señal, favor agilizar solicitud",ID: 402e2403-8a17-49b0-9eee-2f51aaaa6ce9,Agrega AP,,,,,,
+2023-11-08 08:28:46,EMIRANDA,COM,158438798,GOMEZ GARCIA DANIELA FRANCISCA,993139297,PAIQUE 77,PUERTO VARAS,"Cliente solicito TRASLADO INTERIOR el jueves2, numero de IDVenta 202311496, se tipifico como traslado exterior en app contingencia y gestion fue cancelada, cliente insiste y  se vuelve a ingresar formulario. Solicita el traslado de su deco.",ID: 7c091629-ff99-4575-b643-0038127b4b21,Traslado interior,PMTT,2023-11-10 00:00:00,sebastian varetto,FINALIZADA,Conversation ID: 453656b8-cf62-4d7d-829e-075474580a25,
+2023-11-08 09:22:29,JJSAEZ,COM,260104624,ESCOBAR GARCIA VICTOR MANUE,967239088,LA TRILLA 41,MACHALI,"Solicita traslado interior/ costo 18000 en 1 cuota/ ns 603500676/ fc 967239088/ ID: e4b6f46d-923a-426f-9df2-5f9114ec8978
+",ID: e4b6f46d-923a-426f-9df2-5f9114ec8978,Traslado interior,,,,,,
+2023-11-08 10:25:22,JMVILLAR,CCDD,152698178,SILVIA MONTECINOS GOMEZ/ Se comunica: Jose Cardenas,984399391,PARCELACION SAN RAMON 14,PAILLACO,"Cliente señala que tiene visita  pendiente, para instalación de router adicional/ Se ingresa solicitud para agilizar y contactar a cliente informando horario de instalación puesto que lo desconoce. ",3c517d2f-d2eb-49fb-b096-853b92dec2f6,Agrega AP-Eero,VLDV,00:00:00,0,ANULADA,0,
+2023-11-08 10:32:21,RAMIRAND,COM,152760043,NUñEZ NUñEZ MARIA VIRGINIA,983202997,PJE OSVALDO GAETE 044,FRUTILLAR,"titular solicita reinstalación para su modem indica que técnico dejo cable muy corto el cual solicita mover modem se le indica costo de $18.000 opcion 3 cuotas no acepta ya que instalación quedo muy corta. se le ofrece la opción de reinstalación adsl sin costo bajo vb jefatura titular acepta.
+fc: 983202997/996957188
+email: virginiamarianunez081@gmail.com
+ns: 524075675
+id:e632fb3f-2327-4eb8-8673-5f3edcaeddb4",e632fb3f-2327-4eb8-8673-5f3edcaeddb4,Reinstalación,,,,,,
+2023-11-08 10:38:05,LANAIPIL,COM,143598373,URRUTIA ORMEÑO OLGA SOLEDINA,995094810,MICHIGAN 2632,ANGOL,"SRA.OLGA SOLICITA LA INSTALACION DE UN PUNTO DE ALTA VELOCIDAD $24.990 EN 3 CUOTAS.
+FC 995094810 (LAURA ORMEÑO) SERIE 521134324 ID  2b887c53-d395-406d-b60c-a55028e77c1c
+OLGA.SOLEDINA@GMAIL.COM ",2b887c53-d395-406d-b60c-a55028e77c1c,Punto red adicional,,,,,,
+2023-11-08 12:16:04,ODUARTEH,COM,769327150,SORPRENDE CON DETALLES SPA,992181112,"AVENIDA AUSTRAL 1859, Puerto Montt",PUERTO MONTT,Cliente solicita contratar Repetidor Wifi adicional / paga 1.990 pesos mensuales mas costo de instalación 9.990 en 1 cuotas / Conversation ID: 9ddc2281-7e5f-4e56-b7d5-85ef1eba9b87 / NS 521846631 / FC 992181112 / email: bernineuvel@hotmail.com / ,ID: 9ddc2281-7e5f-4e56-b7d5-85ef1eba9b87,Agrega AP,,,,,,
+2023-11-08 12:30:26,elefihua,CCDD,169398860,Tomás Krumm Rojas,981579969,Paseo de la quebrada 1417,Los Lagos Puerto Varas,"RUT: 169398860//Nombre: Tomás Krumm Rojas
+//REGION:Los Lagos Puerto Varas//Dirección:Paseo de la quebrada 1417
+//Fono Contacto:981579969//Servicio afectado://Mail:krumm88@gmail.com
+//Cliente solicita punto de red de alta velocidad //se informa afectacion de sistemas //se validan datos correctamente//se ingresa formulario para comunicacion//acepta valor instalacion  $24.990 en una cuota sin renta mensual // //ticket: https://apps.mypurecloud.com/directory/#/engage/admin/interactions/89014e0d-3fa2-441c-a14c-49523f753743.",89014e0d-3fa2-441c-a14c-49523f753743,Punto red adicional,PMTT,2023-11-10 00:00:00,Sebastian Varetto,Asignado,NO SE DEJA ID DE LLAMADO YA QUE SE LLAMA DE TELEFONO CELULAR,
+2023-11-08 15:21:21,AFICA,COM,172004938,Camila Oñate Oyarzun,964209459,"Caupolicán N°2531, La Unión, Región de los Ríos.",LA UNION,Clienta desea agregar punto de red.,8758d113-b2bd-470c-8b62-1b3883ebc841,Punto red adicional,,,,,,
+2023-11-08 15:49:50,RAMIRAND,COM,769630511,GERARDO ANTONIO JACAMAN HASBUL,978876369,TIERRAS COLORADAS #510,CONCEPCION,"cliente hermana de titular solicita alta repetidor adicional se le indica costo de instalacion además de renta mensual el cual acepta. se ingresa formulario ya que clienta es hermana del representante legal. solicita que se contacten con ella cuando sistema vuelva para realizar gestión alta repetidor adicional.
+fc: 978876369
+
+id: d5f37cf4-8991-4a94-9dd8-fc84eba4e254",d5f37cf4-8991-4a94-9dd8-fc84eba4e254,Agrega AP,,,,,,
+2023-11-08 15:56:29,CILLANES,COM,89048036,LAURA JARA ,996779538,PJE RENGO 224,VLDV,REINSTALACION ADSL  $18000 3 CUOTAS ,44d79b7c-c52b-4e16-9786-daf94ad3e5b8,Reinstalación,,,,,,
+2023-11-08 16:31:10,ALDO BUCCA,COM,193554903,ANAVALON CAAMAÑO PAULA ,956349522, CALLE BONILLA NORTE 3267 (46), CONCEPCION,"CLIENTE AMENAZABAJA DE SERVICIOS POR COSTO DE TRASLADO INTERIOR DE TV DE OFRECE (4759) DESCTO ESPECIAL 50% VISITA TERRENO
+(reinstalaciones/traslado int/migración) -$ 9,000 Y ACEPTA COSTO 2 CUOTAS 
+ID: d1bfab98-a34e-45e7-9cf8-2fb5ec1eb600
+FC 956349522 N° 526792854",ID: d1bfab98-a34e-45e7-9cf8-2fb5ec1eb600,Traslado interior,,,,,,
+2023-11-08 16:51:41,CCCHAVEZ,COM,142183056, GONZALEZ ARAYA RODRIGO HERNAN,935865143,ANDRES BELLO 484 DEPTO 1106 CITY HOUSE,TEMUCO,"AGREGA PUNTO DE RED $24990 EN 1 CUOTAS 
+SERIE 524212954, ",f05b1efa-52b4-4fcc-810c-57981579f141,Punto red adicional,,,,,,
+2023-11-08 17:10:27,AFICA,COM,766699375,Inversiones Mackenna,966938201,"Valdivia N°786, Los Ángeles",LOS ANGELES,"Clienta desea traslado interior.
+",a591a901-6325-4082-aa40-6dc941d3aa05,Traslado interior,,,,,,
+2023-11-08 17:19:12,EALISTE,COM,87613046,BUSTAMANTE OJEDA SONIA DEL PIL,978543917, PASAJE LAS VERBENAS 150,VALDIVIA ,"cliente solicita reinstalación por siniestro ( incendio) de  telefonía  informa que solicitud fue generada antes de caida de sistema, solicita que se pueda realizar sin costo informa que parte de bomberos ya fue enviado anteriormente / fc 978543917  ID: c555502b-b89d-4f42-8e34-d475566ad1bc",ID: c555502b-b89d-4f42-8e34-d475566ad1bc,Reinstalación,,,,,,
+2023-11-08 19:24:08,PCARVAJJ,COM,75011024,AIDA ROSALI ASTUDILLO CALDERON,983664470,CAMINO SAN LUIS 7,CHILLAN,"AIDA ROSALI ASTUDILLO CALDERON
+rut 75011024
+nd 532666774
+fc 983664470 // 
+correo riodejaneiro181@gmail.com
+Domicilio : CAMINO SAN LUIS 7
+Ciudad : CHILLAN 
+id 3a45c1c2-7ba5-4ae6-a40b-161f02eced55 
+cliente solicita traslado interior se informa 18000 solicita 3 cuotas se informa plazo extendido cliente acepta ",3a45c1c2-7ba5-4ae6-a40b-161f02eced55,Traslado interior,,,,,,
+2023-11-08 19:37:16,CIBARRIE,COM,140816035,ANDREA VASQUEZ ,938843570,LAGO PALENA 0460,VALDIVIA,REINSTALACION /  cliente solicita reinstalacion en 3 cuotas ID: 4a30372a-ebc8-4f62-a4cc-f9023bf9e14e fc 632248893 - 938843570 /  ns: 525963494,ID: 4a30372a-ebc8-4f62-a4cc-f9023bf9e14e,Reinstalación,,,,,,
+2023-11-08 19:46:32,ALDO BUCCA,COM,60474540,PEñA SEPULVEDA ORFILIA ESTER,965134796,LOS ÑIRES 922,COYHAIQUE,"CLIENTE SOLICITA DECO ADIC / COSTO INSTALACION  3 CUOTAS / SE INFORMA VALOR DECO ADIC Y ACEPTA 
+ ID: e3727f30-4baf-4ad3-8b82-d155c23a0378
+FC 965134796  N° 529139085", ID: e3727f30-4baf-4ad3-8b82-d155c23a0378,STB adicional,,,,,,
+2023-11-08 20:02:30,DEVILLAL,COM,104333737,ANA MARIA OPAZO ALTAMIRANO,984196133,AVDA SIMON BOLIVAR 2241,TEMUCO,"CLIENTE SOLICITA TRASALDO INT EN 1 CTA
+
+FC: 96602508 || 984196133",65db5cf2-5b22-4a63-bf30-bf78478c2619,Traslado interior,,,,,,
+2023-11-09 00:00:00,VMONJE ,OF COM ,149061819,EDITH ULLOA,984195524,EL ALAMO 426 AVDA ESPAÑA CURICO,CURICO,"Cliente solicita reinstalación servicio de tv ,  TV00385222",,Reinstalación,,,,,,
+2023-11-09 08:51:09,FBRAVO,COM,610040942,JORGE ANTONIO CACERES MENDOZA,994634674,EJERCITO LIBERTADOR 655,RIO BUENO,"JORGE ANTONIO CACERES MENDOZA /RUT:92799700/NS:515773114/RUT SERVICIO:610040942/TRASLADO INTERIOR DE N°642342102/ 1 CUOTA 18000/Domicilio : EJERCITO LIBERTADOR 655
+Ciudad : RIO BUENO (P)/ ID: 842dfc48-f428-407e-9bf1-5ed89f03b7ce/ FC:994634674",842dfc48-f428-407e-9bf1-5ed89f03b7ce,Traslado interior,,,,,,
+2023-11-09 09:44:52,VRIOS,COM,48015158,FRANCISCO ALBERTO VILLARROEL SALAMANCA,974003057,VICENTE PEREZ ROSALES 450,PUERTO MONTT ,"SOLICITA TRASLADO INTERIOR DE DECODIFICADOR  VALOR $18000/3 CUOTAS   ID Conversation ID: bac558d3-a488-4266-9dac-f251aeca82a9
+Cola servicio: RNZS_COM_COM
+Numero Telefónico: tel:+56974003057 SERIE 517703018",Conversation ID: bac558d3-a488-4266-9dac-f251aeca82a9 Cola servicio: RNZS_COM_COM Numero Telefónico: tel:+56974003057,Traslado interior,,,,,,
+2023-11-09 09:58:05,FCORONA,COM,207042897,AXEL MENDEZ,92594055,Manuel rojas 1067,COYAIQUE,"Solicita reinstalación//ns:519826302///id:4be43b1e-56c8-417c-9d26-cf940ba70790//fc:92594055// costo: $18.000(2cuotas)
+",4be43b1e-56c8-417c-9d26-cf940ba70790,Reinstalación,,,,,,
+2023-11-09 12:42:35,CFDIAZ,COM,8898014K,MARLY SANDRA GALLARDO MANCILLA ,962276638,"FRANCISCO BILBAO 336, POBLACION LINTZ, PUERTO MONTT ",PUERTO MONTT,"SOLCIITA TRASLADO INTERIOR ROUTER PRINCIPAL INTERNET// SE VALIDA: RUT: 8898014-K//NS: 520052056//FC: 962276638//DIRECCION: FRANCISCO BILBAO 336, POBLACION LINTZ, PUERTO MONTT //TRASLADO INT-$18,000 EN 3 CUOTAS ",148b63e6-d41c-4154-8a9e-0d4da33f80e2,Traslado interior,,,,,,
+2023-11-09 13:51:50,VRIOS,COM,51839218,SONIA LOPEZ MORA,963272324,AVDA ITALIA 1890,VALDIVIA,"CLIENTA SOLCIITA TRASLADO INTERIOR DE DECO VALOR  $9000 /1 CUOTA  FAVOR EXCEPCION COBRO CON DESCUENTO ADULTO MAYOR COMPLICADA CON EL VALOR   ID Conversation ID: 893e0c99-0980-4181-b90e-ad71022ef88a
+Cola servicio: RNZS_COM_COM
+Numero Telefónico: tel:+56632272324 SERIE 53215207",Conversation ID: 893e0c99-0980-4181-b90e-ad71022ef88a Cola servicio: RNZS_COM_COM Numero Telefónico: tel:+56632272324,Traslado interior,,,,,,
+2023-11-09 14:20:17,cbavenda,COM,52371643,NORMA ORTEGA,97037424,avenida simpson #647,COYHAIQUE,"cliente solicita de manera urgente por un tema judicial un traslado interior, ya que le pidieron del juzgado tener camaras, pero router esta muy alejado no le llega buena señal por tanto solicita si se puede gestionar, se le informa de contingencia, aun asi solicita traslado de un repetidor y un decodificador.
+n° cuotas: 3
+IDc47e5a6f-dbe6-418e-9e49-3392b3db818b/fc:97037424/arantes.josefa@hotmail.com/region de aysen/coyhaique/avenida simpson #647",IDc47e5a6f-dbe6-418e-9e49-3392b3db818b,Traslado interior,,,,,,
+2023-11-09 14:21:31,CILLANES,COM,151393128,OKUINGHTTONS CAMPOS MARIA DEL PILAR,983629882,CAMINO A QUELHUE S/N ,PUCON,SOLICITA AGREGAR DOS REPETIDORES WIFI + INSTALACION $18000 3 CUOTAS + ARRIENDOS $1990 CADA UNO. SERIE 527162350,3b93c424-326f-4a80-8411-20e725df3978,Agrega AP,,,,,,
+2023-11-09 14:24:06,ODUARTEH,COM,101282740,HERMANN CORSSEN CHARLIN ,993593999,AVDA WILLIAM CONDON 3125 (CASA 1 COND BOSQUE DEL V SAN PEDRO,SAN PEDRO,"Cliente solicita deco de TV adicional / acepta renta de 1.990 pero no acepta costo de instalación de 9.990, solicita que la instalación sea sin costo / Se le indica que queda a VB de gerencia y acepta / 
+Conversation ID: 48fde21f-474c-4562-9258-cd624518772a / NS 523094154 / FC 993593999 / email: hermannc7@gmail.com / ",ID: 48fde21f-474c-4562-9258-cd624518772a,STB adicional,,,,,,
+2023-11-09 14:49:56,MCARO,COM,764595505,CENTRO DE INVESTIGACION EN RECURSOS,990507335,AV BDO O'HIGGINS 241 1024,CONCEPCION,"CLIENTE SOLICITA REPETIDOR ADICIONAL, EERO INALAMBRICO $2.990 + COSTO INSTALACION $9.990 EN 1 CUOTA SERIE 527943198 RUT REP LEGAL 122078205 ID: 772d3836-6ace-4016-b77a-99d0e0ecc4bd",ID 772d3836-6ace-4016-b77a-99d0e0ecc4bd,Agrega AP,,,,,,
+2023-11-09 17:21:57,GVALLE,COM,188193781,TORRES AGUILAR CRISTINA,941677657, AMERICA 699,COYHAIQUE ,"Cristina solicita reinstalacion $18.000 en 3 cuotas sin intereses 
+TORRES AGUILAR CRISTINA
+Domicilio : AMERICA 699
+Ciudad : COYHAIQUE region aisen 
+CORREO: C.TOMAS.-@GMAIL.COM 
+RUT : 18.819.378-1 ns: 520747641
+18819378-1
+ ID: 448a1482-da35-43e8-8388-cc6c2433fbd8
+Cola servicio: RNZS_COM_COM
+Numero Telefónico: tel:+56941677657",448a1482-da35-43e8-8388-cc6c2433fbd8,Reinstalación,,,,,,
+2023-11-09 17:54:10,LANAIPIL,COM,10984389k,RODOLFO HERNAN RAMIREZ LEON,993462568,CAMINO LAS ESTEPAS L28 - PARQUE RESIDENCIAL GOLF LOS LIRIOS REQUINUA OHIGGINS ,REQUINUA,"DON RODOLFO SOLICITA REINSTALACION DE SU SERVICIO DE ADSL + GTD TV
+ACEPTA COSTO $18.000 EN 1 CUOTA
+DIRECCION CAMINO LAS ESTEPAS L28 - PARQUE RESIDENCIAL GOLF LOS LIRIOS REQUINUA - OHIGGINS FC 993462568 SERIE 538776415
+",e4ae0b2d-814e-44a6-9172-beb741092126,Reinstalación,,,,,,
+2023-11-09 17:56:33,FCORONA,COM,104273750,ELIANA ALMONACID,940878567,"America del norte 686, las americas",LLANQUIHUE,"
+Solicita traslado interior//ns:106407861//id: 07f8432f-994b-41c0-b8f6-b252bf5783a1//fc: 940878567 //costo: $18.000(1 cuota)", 07f8432f-994b-41c0-b8f6-b252bf5783a1,Traslado interior,,,,,,
+2023-11-09 18:36:05,PCATRICH,COM,184378922,ROXANA QUINTANA BUSTOS,959575349,"JOSE IGNACIO VALDES 339, NIEBLA",VALDIVIA,"ROXANA QUINTANA BUSTOS 184378922//NS 523537193//JOSE IGNACIO VALDES 339, NIEBLA//belen_15_15@hotmail.com//FC 959575349//Solicita router wifi adicional $1,990//acepta cargo instalación $9,990 (3 CUOTAS)//ID a771e99d-781a-4688-a714-028fdde9244d ",a771e99d-781a-4688-a714-028fdde9244d ,Agrega AP,,,,,,
+2023-11-09 18:46:33,ALDO BUCCA,COM,78920800K,COMERCIAL MILKA LIMITADA,996423338,OHIGGINS 24,TEMUCO ,"Cliente solicita un Rep adic Wifi costo instalacion
+1 cuota  / se informa renta mensual y acepta 
+ ID: d7636116-e8d3-4a33-8868-c00c9b1d88e5
+ fc 996423338  n° 532228801", ID: d7636116-e8d3-4a33-8868-c00c9b1d88e5,Agrega AP,,,,,,
+2023-11-09 19:26:21,XBUSTAMA,COM,72862414,JUAN GUICHAPANI LEGUE,974889605,LAS TRANQUERAS 01680 VILLA GANADEROS ,TEMUCO,"CLIENTE SOLICITA UN REPETIDOR WIFI  PARA SU RESIDENCIA ,. ",Conversation ID: edccd3ee-4931-4c42-bbee-5d1900c748d6,Agrega AP,,,,,,
+2023-11-10 08:25:25,CFDIAZ,COM,72101812,MARIO AMADEO VELASQUEZ FILOZA ,976447657,"LOS CLAVES CASA 4, PUERTO MONTT ",PUERTO MONTT,"SOLICITA TRASLADO INTERIOR DE DIRECCION LOS CLAVES CASA 4, PUERTO MONTT / SE VALIDA: RUT: 7210181-2//NS: 530269925//FC; 976447657//DIRECCION: LOS CLAVES CASA 4, PUERTO MONTT //TRASLADO $18,000 en 3 cuotas ",9efcc740-e2cc-4170-850f-a2729499e07e,Traslado interior,,,,,,
+2023-11-10 09:09:29,VRIOS,COM,103041635,MARCOS ANTONIO CHIGUAY COLIVORO,932305205,CHACRA SAN NICOLAS S/N ,CHILE CHICO,"TITULAR INDICA QUE HIZO SOLICITUD HACE MAS DE 1 MES PARA INSTALACION DE DECO  QUE QUEDO PENDIENTE HASTA QUE COMPRARA UNA TV  INDICA QUE YA TIENE LA TV Y NECESITA AGILIZAR LA INSTALACION DEL DECO PConversation ID: de643716-9264-476e-bad0-5888abaa40ee
+Cola servicio: RNZS_COM_COM
+Numero Telefónico: tel:+56932305205ENDIENTE  FAVOR AYUDA PARA INSTALAR LO ANTES POSIBLE  ID ",Conversation ID: de643716-9264-476e-bad0-5888abaa40ee Cola servicio: RNZS_COM_COM Numero Telefónico: tel:+56932305205,STB adicional,,,,,,
+2023-11-10 09:49:22,JJSAEZ,COM,139648064,PACHECO BENITEZ VICTOR RODRIGO,981363573, CONDOMINIO ALTOS DEL MAIPO IV 71,TEMUCO,"CLIENTE INDICA QUE EL VIERNES 03/11 SOLICITO CAMBIO A EQUIPOS EERO, INDICA HABER VALIDADO VALOR DE INSTALACION Y DE RENTA MENSUAL / LO SOLICITO A TRAVÉS DE FORMULARIO N° 16291396 / FAVOR AGILIZAR",ID: 8d5dce27-8e5e-4334-8ae4-3d441d975468,Agrega AP,,,,,,
+2023-11-10 09:50:49,RAMIRAND,COM,183779796,FUENTES ORTEGA ALVARO GONZALO,973927388,GUILLERMO CHACON PONIENTE 60,MACHALI,"titular solicita punto alta velocidad se le indica costo de $24.990 lo deja en 3 cuotas se hace solicitud punto alta velocidad. 
+fc: 973927388
+email: fuentes.alvaro.gonzalo@gmail.com
+ns: 532681428
+id:1b19bf60-5197-4ad7-bfd6-056ff058dabe",1b19bf60-5197-4ad7-bfd6-056ff058dabe,Punto red adicional,,,,,,
+2023-11-10 11:26:41,FCORONA,COM,64573608,GLORIA FUENTES,953817002,General urrutia 180,ANGOL,Solicita traslado interior//ns:525030175//id: 250fa3df-bcce-456e-bb0c-fb83da8f3743 //Fc: 953817002 //costo:$18.000 (3 cuotas),250fa3df-bcce-456e-bb0c-fb83da8f3743,Traslado interior,,,,,,
+2023-11-10 14:25:17,AOYARZUN,COM,153047952,SOTO PEZZO PAMELA SOLANGE,971051701, LOS CANELOS 756,COIHAYQUE,"SOLICITA TRASLADO INTERIOR, ACEPTA COBRO DE $18000 EN 1 CUOTA / SE VALIDA EN ID: 5f66e6d2-c83a-4799-b7c5-14dc97bb34a8 tel:+56971051701 ND: 524178123 correo: pamela.soto@toj.cl  N° Folio 09301530",5f66e6d2-c83a-4799-b7c5-14dc97bb34a8,Traslado interior,,,,,,
+2023-11-10 15:49:46,ALDO BUCCA,COM,175727604,GONZALEZ HERRERA LISSETTE,962215819,ANTONIO CASTRO AL 24,SAN PEDRO,"Cliente solicita traslado int de tv / costo de instalacion 
+3 cuotas fc 962215819
+ID: cff4bca1-5cd0-4a55-87f0-5516d0e194bc
+fc 962215819  N° 522750497",ID: cff4bca1-5cd0-4a55-87f0-5516d0e194bc,Traslado interior,,,,,,
+2023-11-10 18:08:30,EALISTE,COM,162823388,VOGLIO ROJAS UMBERTO EDOARDO,975823272,AVENIDA CAMPOS DEPORTIVOS 260 DP 24,AVENIDA CAMPOS DEPORTIVOS 260 DP 24,"
+ cliente solicita traslado interior de decodificador /fc 975823272 / serie 525516970/  ID: c14192fa-0129-4c3d-9944-b1565d379e13 / 3 cuota ",ID: c14192fa-0129-4c3d-9944-b1565d379e13 ,Traslado interior,,,,,,
+2023-11-10 18:14:14,AWMARIPA,COM,13136623K,FLORES CANTERGIANI CARLOS,963746695, VOLCAN LASKAR 4164,TALCAHUANO,"Nombre : FLORES CANTERGIANI CARLOS
+Domicilio : VOLCAN LASKAR 4164
+Ciudad : TALCAHUANO
+RUT : 13.136.623-K // SERIE 522666783 / 
+alerta de baja solicita reinstalacion de todo su servicio, se le informa costo se molesta por que considera que telsur debe asumir el costo por que necesita cambiar los cables de sus servicios por que estan viejos y dañados, comenta que tecnico en terreno le informo que no tendria costo, se contiene con
+Reinstalacion $0, 
+Conversation ID: 5ba6b48a-8cfe-4069-9f1b-957813b99080 / florescantergianicarlosamador@gmail.com/ 
+Numero Telefónico: tel:+56963746695
+",5ba6b48a-8cfe-4069-9f1b-957813b99080,Reinstalación,,,,,,
+2023-11-10 18:50:58,GVALLE,COM,87028119,FERNANDO DIAZ,993453867,PAMPA GRANEROS 1461,ANGOL ,"FERNANDO ANTONIO DIAZ ARIAS 
+FERNANDO DIAZ
+Domicilio : PAMPA GRANEROS 1461
+Ciudad : ANGOL ARAUCANIA 
+RUT : 8702811-9 NS: 520181404 
+CORREO : FERNANDO.DIAZARIA7@GMAIL.COM 
+SOLICITA TRASLADO INTERIOR $18.000 EN 3 CUOTAS 
+ID: f302df1d-fa6c-404f-ba41-635c7f043d62
+Cola servicio: RNZS_COM_105
+Numero Telefónico: tel:+56993453867",f302df1d-fa6c-404f-ba41-635c7f043d62,Traslado interior,,,,,,
+2023-11-10 19:21:38,JLOPEZS ,COM,108934883,BALBOA CATALAN JUAN CARLOS,953115217,PJE CANDELARIA 1741,VALDIVIA ,"
+solicita agrega 1°deco adicional, sin costo instalacion/ acepta arriendo mensual / ND 525241937  FC +56953115217 . 99718889 ID e75f4d52-0228-43b9-a808-6379b84fb229
+",e75f4d52-0228-43b9-a808-6379b84fb229,STB adicional,,,,,,
+2023-11-10 20:52:40,PCARVAJJ,COM,36551208,RAUL DOMINGO MANRIQUEZ CARDENAS ,958082457,YORK SIRE 57,VALDIVIA,"RAUL DOMINGO MANRIQUEZ CARDENAS 
+rut 3655120-8 
+nd 530522547
+id 55bb7101-00a2-417f-ad73-c9f437f9c43a
+fc 632277333 // 958082457 
+correo raulman1940@gmail.com
+cliente solicita traslado interior se informa 18000 cliente solicita 3 cuotas 
+Domicilio : YORK SIRE 57
+Ciudad : VALDIVIA",55bb7101-00a2-417f-ad73-c9f437f9c43a,Traslado interior,,,,,,
+2023-11-11 09:01:24,RAMIRAND,COM,58550744,ZAMORA OVALLE LUZ IRIS,992237797,AVENIDA SIETE LAGUNAS 939 DP 407 (1 TORRE 1),CONCEPCION,"titular llama para solicitar deco adicional se le indica costo de instalacion de $9.990 lo deja en 3 cuotas. (mantiene un solo decodificador por ende no se cobra renta mensual. se hace solicitud alta deco adicional.
+fc: 992237797/998793258
+email: irisZAMORAo@gmail.com
+ns: 525174559
+id:080e7d1d-f295-4bc4-a594-e7b78d3b6f62",080e7d1d-f295-4bc4-a594-e7b78d3b6f62,STB adicional,,,,,,
+2023-11-11 10:26:21,NOPAZO,COM,134458534,MARIA ROJAS,936196355,putemun s/n castro ,CASTRO,"traslado interior adsl 18000 - 3 cuotas direccion putemun s/n castro costo traslado 18000 3 cuotas 
+ID: b5b96541-fc5b-42b6-81ad-1a0e8aa56017
+MARIA ROJAS
+rut 134458534
+serie 527694098
+fc 968217076 - 936196355
+correo alisocial@hotmail.com
+N solicitud 10311344",ID: b5b96541-fc5b-42b6-81ad-1a0e8aa56017,Traslado interior,,,,,,
+2023-11-11 11:57:05,CCCHAVEZ,COM,15926906K, PATRICIA V. MUÑOZ SOTOMAYOR,971604277, RAMON FREIRE 17, DALCAHUE,"SOLICITA REINSTALACION $18000 EN 1 CUOTAS 
+
+SERIE 110640153",91e0e521-9cb0-4777-9fde-cdb6a895e673,Reinstalación,,,,,,
+2023-11-11 12:43:44,JJSAEZ,COM,92042898, MARIA CELIA VASQUEZ BARRIA,987512620,CALLE 1 111,PTO. AYSEN,SOLICITA REINSTALACION / COSTO 18000 EN 3 CUOTAS / NS 529922646/ FC 987512620/ ID: bab50aaa-4163-4458-a41b-e923e3342a55,ID: bab50aaa-4163-4458-a41b-e923e3342a55,Reinstalación,,,,,,
+2023-11-11 13:25:37,EMIRANDA,COM,189580002,ESPINOZA ROBLES FELIPE IGNACIO,941288820,ALADINO CORTEZ 89,CIRUELOS,"Cliente solicita TRASLADO INTERIOR $18000 (3 CUOTAS)
+Domicilio : ALADINO CORTEZ 89 (FELIPE ESPINOZA)
+Ciudad : CIRUELOS
+RUT : 18.958.000-2
+Conversation ID: 2ed0eec5-0278-46c6-aeb1-b4ac0020548e
+ns: 514945729
+Numero Telefónico: tel:+56941288820",Conversation ID: 2ed0eec5-0278-46c6-aeb1-b4ac0020548e Cola servicio: RNZS_COM_COM Numero Telefónico: tel:+56941288820,Traslado interior,,,,,,
+2023-11-11 13:36:43,JJSAEZ,COM,153418683,CERDA URIBE PAULINA,957493348,PJE LOS RODODENDROS 341,CONCEPCION,SOLICITA TRASLADO INTERIOR DE STB / COSTO 18000 EN 3 CUOTAS / NS 532563713/ FC 957493348/ ID: b1e8d6d0-cd74-4766-af1e-3a7157503ad5,ID: b1e8d6d0-cd74-4766-af1e-3a7157503ad5,Traslado interior,,,,,,
+2023-11-11 13:57:00,cbavenda,COM,133195483,YULIANA ORMEÑO,99114929,"antonio duce #850, niebla sector playa ","NIEBLA, VALDIVIA","cliente solicita de manera urgente reinstalacion para servicio de telefonia que hay conectarlo, cliente no acepta costo, se ofrece a mitad de precio $9990, cliente acepta
+n° cuotas: 3
+ID0099a743-2ef3-417f-9fef-1bf7d3efa269/fc:99114929/ns:528594126/ region de los rios/valdivia/ antonio duce #850, niebla sector playa chica/manuelflauta2@hotmail.com",ID0099a743-2ef3-417f-9fef-1bf7d3efa269,Reinstalación,,,,,,
+2023-11-11 15:00:55,LROSAS,COM,125949215,SEGOVIA CALDERON JULIAN MARCELO,977079915,RUTA 5 SUR 01 FRENTE CABAÑAS TIERRA DEL FUEGO, CASTRO,cliente solicita traslado interior de servicio de internet ademas de regularizacion de domicilio ya que este no figura con la direccion correcta que seria galvarino riveros 598 y este seria su domicilio comercial por lo cual genera un problema con SII (direccion solo con internet servicio D000280463 ),12e3bf56-519b-47ee-b87d-4ae579a7e6cc,Traslado interior,,,,,,
+2023-11-10 00:00:00,OALVARAD,COM,12760813k,RAMON OYARZO DIAZ ,976436532,PEDRO MONTT 277, CASTRO,CLIENTE COMENTA ACOMETIDA INTERIOR CORTADA Y NECESITA CAMBIO DE UBICACION ,,Traslado interior,,,,,,
+2023-11-10 00:00:00,VMODINGE,COM,180178821,MATIAS INOSTROZA LARA,930972969,LOS ALERCES 915,ANCUD,SE CONFIRMA TITULARIDAD EN OFICINA . SOLICITA TRASLADO INTERIOR DE EQUIPOS INTERNET Y TV . CANCELA $18000 EN 3 CUOTAS .,,Traslado interior,,,,,,
+2023-11-11 00:00:00,YHANCENN,COM,115742132,DELFINA FIGUEROA PARRA,,FLORES MILLAN 1781 COND MONTE,CHILLAN,SE OFRECE REINSTALACION POR FIDELIZACION TIENE EQUIPOS DEL AÑO 2019,,Reinstalación,,,,,,
+2023-11-13 00:00:00,CBARRIA,COM,106488118,ROSA SILVA TEJEDA,642324001 - 993635232,LOS LAURELES 189 POBLACION CORVI,OSORNO,cliente solicita traslado interior de instalacion de su servicio costo $18000   3 cuotas  ,,Traslado interior,,,,,,
+2023-11-11 00:00:00,NDEL,COM,152930755,OBANDO SOTO JOCELYN ELIZABET,998676704,LAS NEVADAS 131,VALDIVIA ,TRASLADO INTERIOR Y REINSTALACION $18.000 3 CUOTAS  FC 998676704,,Reinstalación,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+45240.759884259256,,,,,,,,,,,,,,,,
