@@ -1,0 +1,2 @@
+ALTER TABLE INNERfutbol
+DROP COLUMN Estadio;
